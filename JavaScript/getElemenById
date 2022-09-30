@@ -1,0 +1,1 @@
+# document.getElementById("IdName").innerHTML = "We wrote this text by approaching the html element by it's id using Javascript."
