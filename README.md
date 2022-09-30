@@ -1,9 +1,5 @@
 # Learn-to-code
 ## MLSA-MUET-SZAB-CLUB Welcome you All to Learn to Code.
-### We beileve in Learning is Fun
-This repository is the MLSA-MUET-SZAB-Club commitment towards the opensource and learning to code. Here in this repository we welcome both begineers as well as experienced coders both can make some awesome contributions. We believe there is no such thing as small contribution.
-
-This repository is Open source code base for variety of languages. This repository helps first time open source contributor to make their first PR and make some meaningful contribution to opensource projects. 
 
 ## What you can contribute?
 1. Contribute in the code base. Provide programming example no matter how small or big it to the respective programming language folder if you don't find a folder with the language you want to contribute create it. 
@@ -22,7 +18,7 @@ To clone the repository go to your account open this repo and either click on cl
 e.g. git clone https://github.com/yourgithubusername/reponame.git
 
 ### step 4 Lets make some contributions
-Make changes to files on your local machine work on the issue you're assigned. 
+Find a suitable issue for your relevant contribution. Make changes to files on your local machine work on the issue you're assigned. 
 
 ### step 5 Add Changes and Commit Changes
 Now we have to add changes that we made to the branch so for that we will run following command.
