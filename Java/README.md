@@ -1,3 +1,3 @@
 # Java
 ## Fun Fact
-Java is a headache that I always want to have.
+Java is the headache that I always want to have.
