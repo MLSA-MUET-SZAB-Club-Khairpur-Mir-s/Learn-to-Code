@@ -104,3 +104,6 @@ Complete a Dart tutorial that covers the basics of using Dart to build for the c
 Work through extensive online training from Dart experts.
 Explore the API documentation that describes the Dart core libraries.
 Read a book about Dart programming.
+
+#My Thoughts
+Dart is a programming language designed for client development,[8][9] such as for the web and mobile apps. It is developed by Google and can also be used to build server and desktop applications.
