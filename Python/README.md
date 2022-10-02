@@ -53,3 +53,7 @@ It provides very high-level dynamic data types and supports dynamic type checkin
 It supports automatic garbage collection.
 
 It can be easily integrated with C, C++, COM, ActiveX, CORBA, and Java.
+
+# Why is it called ‘Python’?
+
+While many people assume the name Python Programming comes from something related to the Python snake, it actually comes from the TV comedy series ‘Monty Python’s Flying Circus.’ This series broadcast on the BBC channel in the United Kingdom in the 1970s and was a favorite of Guido Van Rossum’s. Because it was short, cryptic, and included the name of his favorite TV comedy show, he chose the name ‘Python.’
