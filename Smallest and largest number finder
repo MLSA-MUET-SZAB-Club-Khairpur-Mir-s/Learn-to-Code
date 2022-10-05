@@ -1,0 +1,34 @@
+import java.util.Scanner;
+public class lab3_Task5 {
+    public static void main(String[] args) {
+
+        int number1;
+        int number2;
+        System.out.println("Which number is largest and Smallest among them :");
+
+        Scanner obj=new Scanner(System.in);
+
+        System.out.println("Enter first number :");
+        number1=obj.nextInt();
+
+        System.out.println("Enter second number :");
+        number2=obj.nextInt();
+
+        if (number1>number2){
+            System.out.println("Number1 is largest");
+        }
+
+        else if (number1<number2){
+            System.out.println("Number1 is smallest");
+        }
+
+        if(number2>number1){
+            System.out.println("Number2 is largest");
+        }
+       else if (number2<number1){
+            System.out.println("Number2 is smallest");
+        }
+        }
+
+    }
+

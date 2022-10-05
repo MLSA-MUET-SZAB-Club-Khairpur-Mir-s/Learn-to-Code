@@ -1,0 +1,9 @@
+public class lab3_task1 {
+    public static void main(String[] args) {
+        int i;
+        System.out.println("The numbers from 1 to 50 :");
+        for(i=1;i<=50;i++){
+            System.out.println(i);
+        }
+    }
+}
