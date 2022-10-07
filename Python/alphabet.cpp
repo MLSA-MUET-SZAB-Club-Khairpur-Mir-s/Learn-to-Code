@@ -8,6 +8,6 @@ int main(){
 		cout<< i << "  is a vowel";
 	}	
 	else{
-		cout<< i << " is a consonant";
+		cout<< i << " is a consonant ";
 	}
 }
