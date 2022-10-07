@@ -1,5 +1,7 @@
 public class EndsWithExample {
-
+    /*
+     *    EndsWithExample
+    /*
     public boolean endsWith(String suffix) {
         return startsWith(suffix, value.length - suffix.value.length);
     }
