@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     int rows; // declaring rows
-
+    cout<<"Hi Gitthub");
     cout << "Enter number of rows: "; 
     cin >> rows; // input rows
 
