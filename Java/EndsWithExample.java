@@ -1,3 +1,7 @@
+/*
+ *
+ *
+ */
 public class EndsWithExample {
 
     public boolean endsWith(String suffix) {
