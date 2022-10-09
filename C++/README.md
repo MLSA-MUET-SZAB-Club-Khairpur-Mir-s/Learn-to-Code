@@ -23,6 +23,8 @@ C++ is portable and can be used to develop applications that can be adapted to m
 
 C++ is fun and easy to learn!
 
+C++ is Basic Language.
+
 As C++ is close to C, C# and Java, it makes it easy for programmers to switch to C++ or vice versa.
 
 Difference between C and C++
