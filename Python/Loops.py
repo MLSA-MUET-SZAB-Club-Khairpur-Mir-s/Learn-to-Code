@@ -13,3 +13,8 @@ print("\nWith enumerates")
 for i,e in enumerate(elements):
     #this will give you both
     print(i,e)
+#--------------------------------------------    
+i=0;
+while(i!=len(elements)):
+    print(i, elements[i])
+    i=i+1
