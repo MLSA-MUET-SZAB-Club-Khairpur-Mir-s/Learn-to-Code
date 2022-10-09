@@ -1,10 +1,13 @@
-// A C++ program for Prim's Minimum
-// Spanning Tree (MST) algorithm. The program is
-// for adjacency matrix representation of the graph
+/* A C++ program for Prim's Minimum
+ * Spanning Tree (MST) algorithm. The program is
+ * for adjacency matrix representation of the graph
+ */
 #include <bits/stdc++.h>
 using namespace std;
 
-// Number of vertices in the graph
+/*
+ *Number of vertices in the graph
+**/
 #define V 5
 
 // A utility function to find the vertex with
