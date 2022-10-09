@@ -95,7 +95,8 @@ Managing isolates: The Dart runtime controls the main isolate (where code normal
 On native platforms, the Dart runtime is automatically included inside self-contained executables, and is part of the Dart VM provided by the dart run command.
 
 Learning Dart
-You have many choices for learning Dart. Here are a few that we recommend:
+You have many choices for learning Dart. Here are a few that we recommend: 
+These resourses will help you:
 
 Explore Dart in the browser through DartPad, a web-based execution environment for Dart code.
 Take a tour of the Dart language, which shows you how to use each major Dart feature.
@@ -105,4 +106,4 @@ Explore the API documentation that describes the Dart core libraries.
 Read a book about Dart programming.
 
 #My Thoughts
-Dart is a programming language designed for client development,[8][9] such as for the web and mobile apps. It is developed by Google and can also be used to build server and desktop applications.
+Dart is a programming language designed for client development,[8][9] such as for the web and mobile apps. It is developed by Google and can also be used to build server and desktop applications. 
