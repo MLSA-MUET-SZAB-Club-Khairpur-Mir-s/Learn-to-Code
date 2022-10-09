@@ -5,7 +5,7 @@ class Node
 public:
 int data;
 Node* prenode;
-Node* next;
+Node* next; \\public class
 Node()
 {
 this->data = data;
@@ -109,7 +109,7 @@ while
 )
 
 {
-cout <<
+cout << \\this this Out screen dislay
 "
 -> "<<getcurrent()<< endl
 ;
