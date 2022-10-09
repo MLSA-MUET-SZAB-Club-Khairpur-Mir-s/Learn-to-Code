@@ -109,7 +109,7 @@ while
 )
 
 {
-cout <<
+cout << \\this this Out screen dislay
 "
 -> "<<getcurrent()<< endl
 ;
