@@ -33,6 +33,7 @@ public class A {
                             st.push(t);
                             break;
                         }
+                        //nice programing
                         else if (c == '+' || c == '-' || c == '*' || c == '/') {
                             if (o.getPriority(t) < o.getPriority(c)){
                                 st.push(t);
