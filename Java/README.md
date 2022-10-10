@@ -10,3 +10,5 @@ Java was originally developed by James Gosling at Sun Microsystems. It was relea
 As of September 2022, Java 19 is the latest version, while Java 17, 11 and 8 are the current long-term support (LTS) versions.
 
 Java is Good OOP Language AND OBJECT ORIENTED.
+Java is a popular programming language.
+Java is used to develop mobile apps, web apps, desktop apps, games and much more.
