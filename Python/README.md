@@ -9,7 +9,7 @@ Python is Interactive − You can actually sit at a Python prompt and interact w
 Python is Object-Oriented − Python supports Object-Oriented style or technique of programming that encapsulates code within objects.
 
 Python is a Beginner's Language − Python is a great language for the beginner-level programmers and supports the development of a wide range of applications from simple text processing to WWW browsers to games.
-
+ Contrary to what most people think, Python is not named after the snake, but after the British TV show Monty Python's Flying Circus. Guido thought he needed a name that was short, unique, and slightly mysterious, so he decided to call the language Python
 History of Python
 Python was developed by Guido van Rossum in the late eighties and early nineties at the National Research Institute for Mathematics and Computer Science in the Netherlands.
 
