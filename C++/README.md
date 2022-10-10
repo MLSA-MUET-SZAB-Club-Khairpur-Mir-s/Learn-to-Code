@@ -1,7 +1,7 @@
 # C++
 ##Tutorials
 this  is very helpfull and intersted tutorial on c++
-it is basic language of program you can also used in electronic projects 
+It is basic language of program you can also used in electronic projects 
 
 What is C++?
 C++ is a cross-platform language that can be used to create high-performance applications.
