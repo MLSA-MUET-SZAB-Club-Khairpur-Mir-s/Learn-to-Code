@@ -15,7 +15,6 @@ Dart offers sound null safety, meaning that values can’t be null unless you sa
 The following code sample showcases several Dart language features, including libraries, async calls, nullable and non-nullable types, arrow syntax, generators, streams, and getters. To find examples of using additional Dart features, see the samples page. To learn more about the language, take the Dart language tour.
 
 Dart has a rich set of core libraries, providing essentials for many everyday programming tasks:
-
 Built-in types, collections, and other core functionality for every Dart program (dart:core)
 Richer collection types such as queues, linked lists, hashmaps, and binary trees (dart:collection)
 Encoders and decoders for converting between different data representations, including JSON and UTF-8 (dart:convert)
@@ -34,71 +33,18 @@ http
 crypto
 markdown
 Additionally, third-party publishers and the broader community publish thousands of packages, with support for features like these:
-
 XML
 Windows integration
 SQLite
 compression
 To see a series of working examples featuring the Dart core libraries, take the library tour. To find additional APIs, see the commonly used packages page.
-
 Dart: The platforms
 Dart’s compiler technology lets you run code in different ways:
-
 Native platform: For apps targeting mobile and desktop devices, Dart includes both a Dart VM with just-in-time (JIT) compilation and an ahead-of-time (AOT) compiler for producing machine code.
-
 Web platform: For apps targeting the web, Dart can compile for development or production purposes. Its web compiler translates Dart into JavaScript.
-
 An illustration of the targets supported by Dart
-
 The Flutter framework is a popular, multi-platform UI toolkit that’s powered by the Dart platform, and that provides tooling and UI libraries to build UI experiences that run on iOS, Android, macOS, Windows, Linux, and the web.
-
 Dart Native (machine code JIT and AOT)
 During development, a fast developer cycle is critical for iteration. The Dart VM offers a just-in-time compiler (JIT) with incremental recompilation (enabling hot reload), live metrics collections (powering DevTools), and rich debugging support.
-
 When apps are ready to be deployed to production—whether you’re publishing to an app store or deploying to a production backend—the Dart ahead-of-time (AOT) compiler can compile to native ARM or x64 machine code. Your AOT-compiled app launches with consistent, short startup time.
-
 The AOT-compiled code runs inside an efficient Dart runtime that enforces the sound Dart type system and manages memory using fast object allocation and a generational garbage collector.
-
-More information:
-
-Get started: Command-line and server apps
-dart tool for running with JIT or AOT compiling to machine code
-Write command-line apps
-Write HTTP servers
-Dart Web (JavaScript dev & prod)
-Dart Web enables running Dart code on web platforms powered by JavaScript. With Dart Web, you compile Dart code to JavaScript code, which in turn runs in a browser—for example, V8 inside Chrome.
-
-Dart web contains two compiliation modes:
-
-An incremental development compiler enabling a fast developer cycle
-An optimizing production compiler which compiles Dart code to fast, compact, deployable JavaScript. These effeciencies come from techniques such as dead-code elimination.
-More information:
-
-Get started: Web apps
-dart compile js
-webdev tool
-Web deployment tips
-The Dart runtime
-Regardless of which platform you use or how you compile your code, executing the code requires a Dart runtime. This runtime is responsible for the following critical tasks:
-
-Managing memory: Dart uses a managed memory model, where unused memory is reclaimed by a garbage collector (GC).
-
-Enforcing the Dart type system: Although most type checks in Dart are static (compile-time), some type checks are dynamic (runtime). For example, the Dart runtime enforces dynamic checks by type check and cast operators.
-
-Managing isolates: The Dart runtime controls the main isolate (where code normally runs) and any other isolates that the app creates.
-
-On native platforms, the Dart runtime is automatically included inside self-contained executables, and is part of the Dart VM provided by the dart run command.
-
-Learning Dart
-You have many choices for learning Dart. Here are a few that we recommend: 
-These resourses will help you:
-
-Explore Dart in the browser through DartPad, a web-based execution environment for Dart code.
-Take a tour of the Dart language, which shows you how to use each major Dart feature.
-Complete a Dart tutorial that covers the basics of using Dart to build for the command line.
-Work through extensive online training from Dart experts.
-Explore the API documentation that describes the Dart core libraries.
-Read a book about Dart programming.
-
-#My Thoughts
-Dart is a programming language designed for client development,[8][9] such as for the web and mobile apps. It is developed by Google and can also be used to build server and desktop applications. 
