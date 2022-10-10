@@ -5,9 +5,9 @@ import java.util.*;
 class SquareOfNum {
     public static void main(String[] args) {
         //Taking input number from the user using scanner class
-        Scanner sc = new Scanner(System.in);
+        Scanner input = new Scanner(System.in);
         System.out.print("Enter number : ");
-        long num = sc.nextLong();
+        long num = input.nextLong();
         
         
         /*
