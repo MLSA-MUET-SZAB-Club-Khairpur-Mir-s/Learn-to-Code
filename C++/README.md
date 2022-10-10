@@ -26,3 +26,5 @@ As C++ is close to C, C# and Java, it makes it easy for programmers to switch to
 Difference between C and C++
 C++ was developed as an extension of C, and both languages have almost the same syntax.
 The main difference between C and C++ is that C++ support classes and objects, while C does not.
+
+course syllabus & find out how this free program can work for you. Innovation In Education. Tuition-Free Credit. Learn At Your Own Pace. Fully online. Free Online Courses.
