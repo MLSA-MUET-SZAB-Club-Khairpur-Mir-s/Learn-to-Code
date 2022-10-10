@@ -20,3 +20,5 @@ The main difference between C and C++ is that C++ support classes and objects, w
 c++ is a programming language
 It Will be Easy To Understand for beginners.
 
+C++ type system. Scope. Translation units and linkage. main function and command-line arguments
+
