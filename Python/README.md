@@ -58,3 +58,6 @@ It can be easily integrated with C, C++, COM, ActiveX, CORBA, and Java.
 
 While many people assume the name Python Programming comes from something related to the Python snake, it actually comes from the TV comedy series ‘Monty Python’s Flying Circus.’ This series broadcast on the BBC channel in the United Kingdom in the 1970s and was a favorite of Guido Van Rossum’s. Because it was short, cryptic, and included the name of his favorite TV comedy show, he chose the name ‘Python.’
 i love this programming language
+
+What is Python used for?
+Python is commonly used for developing websites and software, task automation, data analysis, and data visualization. Since it's relatively easy to learn, Python has been adopted by many non-programmers such as accountants and scientists, for a variety of everyday tasks, like organizing finances.
