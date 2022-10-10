@@ -1,6 +1,9 @@
-number = int(input("Enter a number: "))
-if (number % 2) == 0:
-   print("{0} is Even".format(number))
-else:
-   print("{0} is Odd".format(number))
-   print(number)
+//code to print Even or odd number in python.
+
+num = int(input("Enter a number: "))  
+if (num % 2) == 0:  
+   print("{0} is Even number".format(num))  
+else  
+   print("{0} is Odd number".format(num))  
+   
+   //by Hasnain Ali
