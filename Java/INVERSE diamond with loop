@@ -3,13 +3,12 @@ public class NewClass {
        for(int i=7;i>0;i--)
         {
             for(int n=8-i;n>0;n--){
-                System.out.print(" "); // space before writing on line 
+                System.out.print(" "); // creates space before writing on the line .
          }
             for(int k=0;k<i;k++){
-                System.out.print("* ");   //printing stars
-            }
-            // for creating line
-            System.out.println("");
+                System.out.print("* ");   // this will print stars.
+            } 
+            System.out.println("");       // for making line
         }
 
 }}
