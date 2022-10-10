@@ -1,5 +1,4 @@
 package assignment1;
-
 public class Program22 {
     static void swap(int[] arr, int i, int j)
     {
@@ -56,3 +55,7 @@ public class Program22 {
         printArray(arr, n);
     }
 }
+// your coding skill is great keep it up.
+// java language zindabad
+// thaks bro
+// bye bye
