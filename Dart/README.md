@@ -28,10 +28,10 @@ HTML elements and other resources for web-based applications that need to intera
 Beyond the core libraries, many APIs are provided through a comprehensive set of packages. The Dart team publishes many useful supplementary packages, such as these:
 
 characters
-intl
-http
-crypto
-markdown
+-intl
+-http
+-crypto
+-markdown
 Additionally, third-party publishers and the broader community publish thousands of packages, with support for features like these:
 XML
 Windows integration
