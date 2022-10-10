@@ -15,6 +15,7 @@ According to Stack Overflow Developer Survey 2019, JavaScript is the #1 programm
 1. Scope
 Scope means variable access. What variable do I have access to when a code is running? In Javascript by default, you’re always in root scope i.e. the window scope. The scope is simply a box with a boundary for variables, functions, and objects. These boundaries put restrictions on variables and determine whether you have access to the variable or not. It limits the visibility or availability of a variable to the other parts of the code. You must have a clear understanding of this concept because it helps you to separate logic in your code and also improves the readability. A scope can be defined in two ways –
  
+ js makes responsive design easier. JavaScript has become integral to the Internet experience as developers build increased interaction and complexity into their applications. Search engines, ecommerce, content management systems, responsive design, social media and phone apps would not be possible without it.
 
 
 Local Scope allows access to everything within the boundaries (inside the box)
