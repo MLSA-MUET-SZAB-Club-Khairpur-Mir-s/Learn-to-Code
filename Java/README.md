@@ -11,3 +11,6 @@ As of September 2022, Java 19 is the latest version, while Java 17, 11 and 8 are
 
 Java is Good OOP Language AND OBJECT ORIENTED.
 One of the most widely used programming languages, Java is used as the server-side language for most back-end development projects, including those involving big data and Android development. Java is also commonly used for desktop computing, other mobile computing, games, and numerical computing.
+
+What is Python used for?
+Python is commonly used for developing websites and software, task automation, data analysis, and data visualization. Since it's relatively easy to learn, Python has been adopted by many non-programmers such as accountants and scientists, for a variety of everyday tasks, like organizing finances.
