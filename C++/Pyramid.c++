@@ -1,22 +1,17 @@
 #include <iostream>
 using namespace std;
 
-int main()
-{
-    int rows=NULL; 
-    char element;
-    cout << "Enter the number of Rows : "; 
-    cin >> rows; // input rows
-    cout << "Enter a Character : "; 
-    cin >> element; // input rows
+//  Here is code To print Pyramid in C++
 
-    for(int i = 1; i <= rows; ++i)
-    {
-        for(int j = 1; j <= i; ++j)
-        {
-            cout <<element ;
-        }
-        cout << "\n";
-    }
-    return 0;
+#include <iostream>
+using namespace std;
+int main() {
+   int n = 6, i, j;
+   for (i=1; i<=n; i++) {
+      for(j=1; j<=i; j++ ) {
+         cout << "* ";
+      }
+      cout << endl;
+   }
+   return 0;
 }
