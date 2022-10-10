@@ -1,7 +1,5 @@
 package DSA;
-
 import java.util.Stack;
-
 public class A {
     public String infixToPrefix(String s) {
         DSA1 o = new DSA1();
@@ -20,10 +18,10 @@ public class A {
                         prefix = t+prefix ;
                     } else {
                         break;
+                        //it is a break statement
                     }
-
                 }
-
+                // it is a if-else statement
             } else if (c == '+' || c == '-' || c == '*' || c == '/') {
                 if (st.isEmpty()) {
                     st.push(c);
