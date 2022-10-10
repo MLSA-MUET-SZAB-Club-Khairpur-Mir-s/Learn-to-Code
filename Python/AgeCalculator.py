@@ -3,5 +3,5 @@ def AgeCalculator(y, m ,d):
   today = datetime.datetime.now().date() #taking today’s date by using the datetime.now() method of the datetime module
   dob = datetime.date(y, m, d)
   age = int((today-dob).days / 365)
-  print(age)
+  print("age = "+age)
 AgeCalculator(2001, 10, 1)
