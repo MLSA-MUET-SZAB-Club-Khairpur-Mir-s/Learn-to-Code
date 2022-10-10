@@ -1,4 +1,4 @@
-# JavaScript
+# tutorials JavaScript
 7 JavaScript Concepts That Every Web Developer Should Know
 Difficulty Level : Medium
 Last Updated : 28 Sep, 2022
