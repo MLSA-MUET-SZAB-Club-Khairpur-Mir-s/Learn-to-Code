@@ -21,3 +21,4 @@ It Will be Easy To Understand for beginners.
 
 Is C++ easy for beginners?
 C++ is hard to learn because of its multi-paradigm nature and more advanced syntax. While it's known to be especially difficult for beginners to learn, it's also difficult for programmers with no experience with low-level languages.
+C++ is good for learning DSA
