@@ -22,4 +22,10 @@ Global Scope is everything outside the boundaries (outside the box). A global sc
 Example: The code given below will give you an error because “name” is defined within the boundary (local scope) of the showName() function. You can not have access to this variable outside the function. 
 
 NOTE: THE CODE BELOW IS IN ERROR DUE TO A TYPO IN THE FUNCTION CALL, causing an error before the intended scoping error is raised by the console.log call
-Javascript is used by programmers across the world to create dynamic and interactive web content like applications and browsers. JavaScript is so popular that it's the most used programming language in the world, used as a client-side programming language by 97.0% of all websites.
+ JavaScript is the world's most popular programming language.
+
+JavaScript is the programming language of the Web.
+
+JavaScript is easy to learn.
+
+This tutorial will teach you JavaScript from basic to advanced.
