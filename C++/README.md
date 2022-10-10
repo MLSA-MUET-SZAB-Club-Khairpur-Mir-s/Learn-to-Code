@@ -1,17 +1,3 @@
 # C++
-# Deep Tutroials points
-this  is very helpfull and intersted tutorial on c++
-it is basic language of program you can also used in electronic projects 
-
-What is C++?
-C++ is a cross-platform language that can be used to create high-performance applications.
-C++ was developed by Bjarne Stroustrup, as an extension to the C language.
-C++ gives programmers a high level of control over system resources and memory.
-The language was updated 4 major times in 2011, 2014, 2017, and 2020 to C++11, C++14, C++17, C++20.
-Why Use C++
-C++ is one of the world's most popular programming languages.
-C++ can be found in today's operating systems, Graphical User Interfaces, and embedded systems.
-As C++ is close to C, C# and Java, it makes it easy for programmers to switch to C++ or vice versa.
-Difference between C and C++
-C++ was developed as an extension of C, and both languages have almost the same syntax.
-The main difference between C and C++ is that C++ support classes and objects, while C does not.
+# Tutroials points for C++
+In this course, we will learn the mechanics of editing and compiling programs in C++. We will begin with a discussion of the essential elements of C++ programming: variables, loops, expressions, functions, and string class. Then, we will cover the basics of object-oriented programming: classes, inheritance, templates, exceptions, and file manipulation. We will then review function and class templates and the classes that perform output and input of characters to/from files. This course will also cover namespaces, exception handling, and preprocessor directives. In the last part of the course, we will learn some slightly more sophisticated programming techniques that deal with data structures such as linked lists and binary trees
