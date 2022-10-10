@@ -29,3 +29,15 @@ JavaScript is the programming language of the Web.
 JavaScript is easy to learn.
 
 This tutorial will teach you JavaScript from basic to advanced.
+
+JavaScript is the world's most popular programming language.
+
+JavaScript is the programming language of the Web.
+
+JavaScript is easy to learn.
+
+This tutorial will teach you JavaScript from basic to advanced.
+
+Is JavaScript very easy?
+Image result for javascript w3schools
+JavaScript is a simple and easy-to-learn programming language as compared to other languages such as C++, Ruby, and Python. It is a high-level, interpreted language that can easily be embedded with languages like HTML.
