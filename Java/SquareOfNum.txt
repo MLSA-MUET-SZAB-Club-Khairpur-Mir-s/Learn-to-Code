@@ -4,32 +4,12 @@ import java.util.*;
 
 class SquareOfNum {
     public static void main(String[] args) {
-        //Taking input number from the user using scanner class
-        Scanner input = new Scanner(System.in);
-        System.out.print("Enter number : ");
-        long num = input.nextLong();
-        
-        
-        /*
-        created generateSquare function that takes num as input
-        and return squared value of num as output
-        */
-        
-        long squaredNum = generateSquare(num);
-        
-        //printing the squared value to screen
-        System.out.println("Squared number : " + squaredNum);
-    }
-    
-    static long generateSquare(long num){
-        /*
-        we can square the number in many ways:
-        
-        1. just multiplying the number with itself - num*num
-        2. using pow function in math class - Math.pow(num,2);
-        
-        */
-        
-        return num * num;
-    }
+          
+      //Square a Number
+     double x = 5;
+     double z = x * x;
+     System.out.println(z);
+
+      
+      }
 }
