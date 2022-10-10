@@ -1,5 +1,5 @@
 # Python
-# Basic tutorials for python
+# Basic tutorials
 Python is a high-level, interpreted, interactive and object-oriented scripting language. Python is designed to be highly readable. It uses English keywords frequently where as other languages use punctuation, and it has fewer syntactical constructions than other languages.
 
 Python is Interpreted − Python is processed at runtime by the interpreter. You do not need to compile your program before executing it. This is similar to PERL and PHP.
@@ -9,7 +9,7 @@ Python is Interactive − You can actually sit at a Python prompt and interact w
 Python is Object-Oriented − Python supports Object-Oriented style or technique of programming that encapsulates code within objects.
 
 Python is a Beginner's Language − Python is a great language for the beginner-level programmers and supports the development of a wide range of applications from simple text processing to WWW browsers to games.
- Contrary to what most people think, Python is not named after the snake, but after the British TV show Monty Python's Flying Circus. Guido thought he needed a name that was short, unique, and slightly mysterious, so he decided to call the language Python
+
 History of Python
 Python was developed by Guido van Rossum in the late eighties and early nineties at the National Research Institute for Mathematics and Computer Science in the Netherlands.
 
@@ -58,3 +58,4 @@ It can be easily integrated with C, C++, COM, ActiveX, CORBA, and Java.
 
 While many people assume the name Python Programming comes from something related to the Python snake, it actually comes from the TV comedy series ‘Monty Python’s Flying Circus.’ This series broadcast on the BBC channel in the United Kingdom in the 1970s and was a favorite of Guido Van Rossum’s. Because it was short, cryptic, and included the name of his favorite TV comedy show, he chose the name ‘Python.’
 i love this programming language
+it will be very powerfull language and easy Good For Developers.
