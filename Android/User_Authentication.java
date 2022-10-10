@@ -68,3 +68,4 @@ public class MainActivity extends AppCompatActivity {
         });
         }
     }
+// try to connect with DBMS 
