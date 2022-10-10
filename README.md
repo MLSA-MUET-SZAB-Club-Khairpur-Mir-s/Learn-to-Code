@@ -1,6 +1,10 @@
 # Learn-to-code
 ## MLSA-MUET-SZAB-CLUB Welcome you All to Learn to Code.
 
+## About MLSA-MUET-SZAB-CLUB
+MLSA (Microsoft Learn Student Ambassador) CLUB MUET SZAB Khairpur Mir’s is the Community From Microsoft That is Working For Students and for those who want to become a Community people.
+MLSA CLUB MUET SZAB is the CLUB of Mehran University of Engineering & Technology, SZAB Campus Khairpur Mir’s Which is a Branch of MUET, Jamshoro, Which is Ranked 2nd in Public Sector Universities all over Pakistan.
+
 ## What you can contribute?
 1. Contribute in the code base. Provide programming example no matter how small or big it to the respective programming language folder if you don't find a folder with the language you want to contribute create it. 
 2. Contribute with projects. Any project that you did in your school college or university you can put it here in the respective programming language folder. 
