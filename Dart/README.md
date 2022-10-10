@@ -1,6 +1,5 @@
 # DART
-# Basic Points
-
+# Basic Tutroials Points
 
 Dart is the client-optimized language for developing fast apps on any platform. Its goal is to offer the most productive programming language for multi-platform development, paired with a flexible execution runtime platform for app frameworks.
 
@@ -15,10 +14,6 @@ Dart offers sound null safety, meaning that values can’t be null unless you sa
 
 The following code sample showcases several Dart language features, including libraries, async calls, nullable and non-nullable types, arrow syntax, generators, streams, and getters. To find examples of using additional Dart features, see the samples page. To learn more about the language, take the Dart language tour.
 
-
-This example is running in an embedded DartPad. You can also open this example in its own window.
-
-Dart: The libraries
 Dart has a rich set of core libraries, providing essentials for many everyday programming tasks:
 
 Built-in types, collections, and other core functionality for every Dart program (dart:core)
