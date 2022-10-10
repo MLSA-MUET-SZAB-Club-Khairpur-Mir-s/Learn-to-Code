@@ -1,34 +1,56 @@
-//Program to find the intersection of two sorted arrays
-#include <bits/stdc++.h>
+
+// find intersection of two sorted Arrays in C++..
+#include <iostream>
 using namespace std;
 
-int printIntersection(int a1[], int a2[], int m, int n)
-{
-    int i = 0;
-    int j = 0;
-    while (i < m && j < n)
-
-    {
-        if (a1[i] < a2[j])
-            i++;
-        else if (a1[i] > a2[j])
-            j++;
-        else
-        {
-            cout << a2[j++] << endl;
-            i++;
-        }
-    }
+int main() {
+ 
+   int arr1[100], arr2[100], len1, len2, i, p = 0, q = 0;
+ 
+   cout << "Enter lenght of first array (Max 100) \n";
+   cin  >> len1;
+ 
+   cout << " Enter sorted values for first array \n";
+ 
+   for (i = 0; i < len1; i++) {
+  
+      cin >> arr1[i];
+  
+   }
+ 
+   cout << "Enter length of second array (Max 100) \n";
+   cin  >> len2;
+ 
+   cout << " Enter sorted values for second array \n";
+ 
+   for (i = 0; i < len2; i++) {
+  
+      cin >> arr2[i];
+  
+   }
+ 
+ 
+   while (p <= len1 && q <= len2) {
+  
+      if (arr1[p] < arr2[q]) {
+          //by Hasnain Ali
+   
+         p++;
+   
+      } else if (arr2[q] < arr1[p]) {
+   
+         q++;
+   
+      } else if (arr1[p] == arr2[q]) {
+   
+         cout << arr1[p] <<" ";
+   
+         p++;
+         q++;
+   
+      }
+  
+   }
+ 
+   return 0;
 }
-
-int main()
-{
-    int a1[] = {1, 2, 4, 5, 6};
-    int a2[] = {2, 3, 5, 7};
-
-    int m = sizeof(a1) / sizeof(a1[0]);
-    int n = sizeof(a2) / sizeof(a2[0]);
-
-    printIntersection(a1, a2, m, n);
-}
-//Output: 2 5
