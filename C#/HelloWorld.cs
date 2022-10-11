@@ -6,7 +6,7 @@ namespace HelloWorld
         {
 
             System.Console.WriteLine("Hello World!"); // Hello World Prints
-            System.Console.WriteLine("Chai peee loooooo"); // Hello World Prints
+            System.Console.WriteLine("Hello World 2"); // Hello World Prints
 
         }
    }
