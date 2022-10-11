@@ -1,0 +1,15 @@
+package love_from_unlimited_practice;
+
+public class GreaterNumberCheckInArray {
+    public static void main(String[]args){
+        int arr [] = {1,2,3,4,5,6,7,8,9,0,3,4,56,7845,32,55643,43,453563,2344445,2343423,4562425,234545654,4324245,32444534,2342342};
+        int arr1 [] = {1,2,3,4,5,6,7,7,8,88,3};
+        int max = 0;
+            for (int ely : arr){
+                if(ely>max){ // if any number is greater than max
+                    max = ely; // then that greater number will be new max
+                }
+            }
+            System.out.print(max);
+    }
+}
