@@ -5,7 +5,7 @@ Question
     * There are 2 types of queries, given as an array of strings for you to parse
         1. Querry 1 x y
             1. let idx = ((x(xor)lastAnswer)%n).
-            2. Append the integer y to arr[idx].
+            2. Append the integer y to arr[idx]...
         2. Querry 2 x y
             1. let idx = ((x(xor)lastAnswer)%n).
             2. Assign the value
