@@ -1,10 +1,11 @@
 public class ReverseNumber {
     public static void main(String[] args) {
-        int number = 987654321;
-        int remainder=0 , reverse=0;
-        
-        // using condition 
-        while(num!=0) {
+
+        int num = 987654321;
+        int rem=0 , rev=0;
+        //reversing anumber
+        while(num>0) {
+
             
                 remainder = number % 10;
                 reverse = reverse * 10 + remainder;
