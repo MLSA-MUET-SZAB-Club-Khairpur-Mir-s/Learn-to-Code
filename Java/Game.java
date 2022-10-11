@@ -1,6 +1,7 @@
 import java.util.Scanner;
 import java.util.Random;
 
+// creating class
 class Game {
     public int number;
     public int inputNo;
@@ -13,7 +14,7 @@ class Game {
     public void setNoOfGuesses(int noOfGuesses) {
         noOfGuesses = noOfGuesses;
     }
-
+// using constructer
     Game() {
         Random ran = new Random();
         this.number = ran.nextInt(100);
@@ -44,11 +45,11 @@ public class Game1 {
     public static void main(String[] args) {
 
 
-        Game g = new Game();
+        Game game = new Game();
         boolean b = false;
         while (!b) {
-            g.takeUserInput();
-            b = g.isCorrectNumber();
+            game.takeUserInput();
+            b = game.isCorrectNumber();
         }
 
     }
