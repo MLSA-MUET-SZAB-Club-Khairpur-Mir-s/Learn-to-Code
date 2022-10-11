@@ -1,16 +1,16 @@
 class DoWhilePattern1{
 public static void main(String args[]){
-int i=0;
+int a=0;
 do{
-int j=1;
-while(j<=8)
+int b=1;
+while(b<=8)
 {
 System.out.print("*");
-j++;
+b++;
 }
 System.out.println();
-i++;
+a++;
 }
-while(i<=6);
+while(a<=6);
 }
 }
