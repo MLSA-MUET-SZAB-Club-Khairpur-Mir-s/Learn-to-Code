@@ -4,12 +4,15 @@ public class add{
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
 
+        // declaring and initializing array
         int[][] a=new int[2][3];
         int[][] b=new int[2][3];
         int[][] result=new int[2][3];
         
 
         System.out.println("Enter first matrix data");
+        
+        // using for loop
         for(int i=0;i<2;i++){ //rows
             for(int j=0;j<3;j++){
                 a[i][j]= sc.nextInt();
@@ -38,7 +41,7 @@ public class add{
             }
             System.out.println();
         }
-
+// printing the result
         System.out.println("Printing result after addition");
         for(int i=0;i<2;i++){ //rows
             for(int j=0;j<3;j++){

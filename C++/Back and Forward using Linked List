@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
-class Node  
-//this is comment
+class Node
 {
 public:
 int data;
@@ -14,6 +13,7 @@ prenode = NULL;
 next = NULL;
 }
 };
+//nothing
 class list
 {
 public:

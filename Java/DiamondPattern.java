@@ -3,11 +3,12 @@ import java.util.Scanner;
 public class DiamondPattern{
 public static void main(String args[]){
 
+  // declaring and initializing variables
 int n, i, j, space = 1;
 System.out.print(“Enter the number of rows: “);
 
-Scanner s = new Scanner(System.in);
-n = s.nextInt();
+Scanner obj = new Scanner(System.in);
+n = obj.nextInt();
 
 space = n – 1;
 for (j = 1; j<= n; j++){
@@ -17,6 +18,7 @@ System.out.print(” “);
 
 space–;
 
+  // using for loop 
 for (i = 1; i <= 2 * j – 1; i++){
 System.out.print(“*”);
 }
