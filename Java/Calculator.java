@@ -6,8 +6,9 @@ public class Calculator {
     char operator;
     int  number1, number2, result;
 
-    Scanner sc = new Scanner(System.in);
-    
+
+    Scanner input = new Scanner(System.in);
+    // Shakeel ka programe
 
     System.out.println("Choose an operator: +, -, *, or /");
     operator = sc.next().charAt(0);
