@@ -1,11 +1,12 @@
 import java.util.Scanner;
 public class CountNumbers {
     public static void main(String[] args) {
-    Scanner sc = new Scanner(System.in);
+    Scanner obj = new Scanner(System.in);
     int n, count_negative=0,count_zeroes=0, count_positive = 0, choice =0;
     do {
         System.out.println("Enter the numbers");
         n = sc.nextInt();
+        // using if conditions 
         if(n>0) {
         count_positive++;  
         }

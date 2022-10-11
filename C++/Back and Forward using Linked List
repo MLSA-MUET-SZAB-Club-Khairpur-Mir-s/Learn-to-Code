@@ -13,6 +13,7 @@ prenode = NULL;
 next = NULL;
 }
 };
+//nothing
 class list
 {
 public:
