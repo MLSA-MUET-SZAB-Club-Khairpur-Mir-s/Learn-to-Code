@@ -1,0 +1,15 @@
+//Hey,This is the java code for finding square of any number! - NikhilSharma
+
+import java.util.*;
+
+class SquareOfNum {
+    public static void main(String[] args) {
+          
+      //Square a Number
+     double x = 5;
+     double z = x * x;
+     System.out.println(z);
+
+      
+      }
+}
