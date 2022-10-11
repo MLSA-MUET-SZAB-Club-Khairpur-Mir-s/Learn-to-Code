@@ -8,19 +8,25 @@ public class CountNumbers {
         n = sc.nextInt();
         // using if conditions 
         if(n>0) {
-        count_positive++;  
+        count_positive++; 
+        // count postive numbers 
         }
         else if (n<0) {
             count_negative++;
+         // count negative  numbers
         }
         else {
             count_zeroes++;
+            // count Zeros  numbers
         }
         System.out.println("For Continue press 1 and For Exit press 0");
         choice = sc.nextInt();
     }while(choice!=0);
+        // print positive numbers 
     System.out.println("The Positive Numbers are: " + count_positive);
+        // print negative numbers
     System.out.println("The Negative Numbers are: " + count_negative);
+        // print zeros;
     System.out.println("The Zeroes are: " + count_zeroes);
     }
 }
