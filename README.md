@@ -1,3 +1,4 @@
+
 # Learn-to-Code
 
 ### MLSA-MUET-SZAB-CLUB
@@ -45,10 +46,12 @@ Now we have to push the changes that we made to remote repository on specified b
 
 -git push origin <branch-name> name of branch is same as you created in *Step 3*
 
-e.g git push origin mybranch
 
-*Step 7:* 
-Submit your changes for review!
+e.g `git push origin mybranch`
+
+
+### step 7 Submit your changes for review
+
 Once you have pushed your code to GitHub, it's now time to create pull request, you will go to the repository click on compare and pull request and submit the pull request.
 
 Soon, we will be merging all your pull requests to the main branch of project and you will also get notification once your pull request is merged with existing code base. After that you will be able to see your details in contributor section on the page below.
