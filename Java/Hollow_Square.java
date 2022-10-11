@@ -1,8 +1,8 @@
 public class Hollow_Square {
-	public static void HollowSquare(int a) {
-		for(int i=1; i<=a; i++) {
-			for(int j=1; j<=a; j++) {
-				if(i==1||i==a||j==1||j==a) {
+	public static void HollowSquare(int x) {
+		for(int i=1; i<=x; i++) {
+			for(int j=1; j<=x; j++) {
+				if(i==1||i==x||j==1||j==x) {
 					System.out.print("*");
 				}
 				else {
