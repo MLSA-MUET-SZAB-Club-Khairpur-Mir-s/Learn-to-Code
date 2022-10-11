@@ -5,6 +5,7 @@ const number = prompt('Enter a three-digit positive integer: ');
 
 // create a temporary variable
 let temp = number;
+
 while (temp > 0) {
     // finding the one's digit
     let remainder = temp % 10;
