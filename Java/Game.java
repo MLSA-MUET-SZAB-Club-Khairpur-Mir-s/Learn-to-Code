@@ -3,9 +3,10 @@ import java.util.*;
 
 // creating class
 class Game {
-     int ran_number;
-     int inputNo;
-    int noOfGuesses = 0;
+    public int num;
+    public int inputNo;
+    public int noOfGuesses = 0;
+
 
     public int getNoOfGuesses() {
         return noOfGuesses;
@@ -17,7 +18,9 @@ class Game {
 // using constructer
     Game() {
         Random ran = new Random();
-        this.ran_number = ran.nextInt(200);
+
+        this.num = ran.nextInt(100);
+
     }
 
     void takeUserInput() {
@@ -26,16 +29,18 @@ class Game {
         inputNo = sc.nextInt();
     }
 
-    boolean isCorrectNumber() {
+    boolean isCorrectNum() {
         noOfGuesses++;
-        if (inputNo == number) {
-            System.out.format("Yes, you guessed it right, it was %d \nYou guessed it %d attempts ", number,
+
+        if (inputNo == num) {
+            System.out.format("Yes, you guessed it right, it was %d\nYou guessed it %d attempts ", num,
                     noOfGuesses);
             return true;
-        } else if (inputNo < number) {
-            System.out.println("Your gussed  number is smaller  ");
-        } else if (inputNo > number) {
-            System.out.println("Your gussed  number is larger  ");
+        } else if (inputNo < num) {
+            System.out.println("Too low...");
+        } else if (inputNo > num) {
+            System.out.println("Too high...");
+
         }
         return false;
     }
@@ -48,8 +53,10 @@ public class Game1 {
         Game game = new Game();
         boolean b = false;
         while (!b) {
-            game.takeUserInput();
-            b = game.isCorrectNumber();
+
+            g.takeUserInput();
+            b = g.isCorrectNum();
+
         }
 
     }
