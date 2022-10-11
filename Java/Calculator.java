@@ -6,16 +6,18 @@ public class Calculator {
     char operator;
     int  number1, number2, result;
 
-    Scanner input = new Scanner(System.in);
+    Scanner sc = new Scanner(System.in);
     
-    System.out.print("\nChoose an operator: +, -, *, or / : ");
-    operator = input.next().charAt(0);
 
-    System.out.print("\nEnter the first number : ");
-    number1 = input.nextDouble();
+    System.out.println("Choose an operator: +, -, *, or /");
+    operator = sc.next().charAt(0);
 
-    System.out.print("\nEnter the second number : ");
-    number2 = input.nextDouble();
+    System.out.println("Enter first number");
+    number1 = sc.nextDouble();
+
+    System.out.println("Enter second number");
+    number2 = sc.nextDouble();
+
 
     switch (operator) {
     case '+':
@@ -54,6 +56,6 @@ public class Calculator {
         break;
     }
 
-    input.close();
+    sc.close();
   }
 }
