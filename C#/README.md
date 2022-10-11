@@ -19,7 +19,7 @@ Assembly Versioning
 Properties and Events
 Delegates and Events Management
 Easy-to-use Generics
-Indexers
+Indexers,
 Conditional Compilation
 Simple Multithreading
 LINQ and Lambda Expressions
