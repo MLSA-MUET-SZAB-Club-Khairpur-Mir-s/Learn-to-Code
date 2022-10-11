@@ -1,0 +1,198 @@
+#include <iostream>
+using namespace std;
+class Node  
+//this is comment
+{
+public:
+int data;
+Node* prenode;
+Node* next; \\public class
+Node()
+{
+this->data = data;
+prenode = NULL;
+next = NULL;
+}
+};
+class list
+{
+public:
+Node *head;
+Node *tail;
+Node *current;
+list()
+{
+head=NULL;
+tail=NULL;
+current=NULL;
+}
+int getcurrent()
+{
+return current->data;
+}
+void setcurrent(Node* index)
+{
+current=index;
+}
+void sethead(Node* Head)
+{
+head = Head;
+}
+
+4
+
+void add
+(int num
+)
+
+{
+Node* temp
+
+=new Node
+;
+
+temp
+-
+>data
+=num
+;
+
+temp
+-
+>next
+=NULL
+;
+
+if
+(head==NULL
+)
+
+{
+temp
+-
+>prenode
+=NULL
+;
+
+sethead
+(temp);
+tail
+=temp
+;
+current = head
+;
+
+}
+else {
+tail
+-
+>next
+=temp
+;
+
+temp
+-
+>prenode
+=tail
+;
+
+tail
+=temp
+;
+
+}}
+void display() {
+setcurrent
+(head);
+
+while
+(current != NULL
+)
+
+{
+cout << \\this this Out screen dislay
+"
+-> "<<getcurrent()<< endl
+;
+
+setcurrent
+(current
+-
+>next);
+
+}
+setcurrent
+(head);
+
+}
+void forward() {
+setcurrent
+(current
+-
+>next);
+
+cout <<
+"
+-> " <<getcurrent() << endl
+;
+
+}
+void backward() {
+setcurrent
+(current
+-
+>prenode);
+
+cout <<
+"
+-> " <<getcurrent()<< endl
+;
+
+}
+};
+int main() {
+list l1
+;
+char input
+;
+
+l1
+.add
+(
+1);
+
+5
+
+l1.add(2);
+l1.add(3);
+l1.add(4);
+l1.add(5);
+while(true)
+{
+cout<<"Enter D to view the Elements in List" << endl;
+cout<<"Enter F to move Forward"<<endl;
+cout<<"Enter B to move Backward " << endl;
+cout<<"Enter E to Exit : ";
+cin>>input;
+if(input=='F' || input=='f')
+{
+l1.forward();
+}
+else if(input=='B' || input=='b')
+{
+l1.backward();
+}
+else if(input=='D' || input=='d')
+{
+l1.display();
+}
+else if(input=='E' || input=='e')
+{
+break;
+}
+else{
+cout << "INVALID INPUT" << endl;
+}
+}
+return 0;
+}
