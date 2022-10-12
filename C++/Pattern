@@ -5,12 +5,12 @@ using namespace std;
 void pattern1()
 {
    //declaring a variable
-    int n;
+    int number;
     //taking input
-    cin >> n;
+    cin >> number;
 
 //using loop for printing pattern
-    for (int row = 1; row <= n; row++) //NUMBER OF ROWS
+    for (int row = 1; row <= number; row++) //NUMBER OF ROWS
     {
         for (int col = 1; col <= row; col++) // NUMBER OF COLS
         {
