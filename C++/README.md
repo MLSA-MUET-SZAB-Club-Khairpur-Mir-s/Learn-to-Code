@@ -23,3 +23,7 @@ It Will be Easy To Understand for beginners.
 C++ is hard to learn because of its multi-paradigm nature and more advanced syntax. While it's known to be especially difficult for beginners to learn, it's also difficult for programmers with no experience with low-level languages.
 C++ is good for learning DSA
 data structure can be easily understand by using C++ language
+
+++ is a general purpose, case-sensitive, free-form programming language that supports object-oriented, procedural and generic programming.
+
+C++ is a middle-level language, as it encapsulates both high and low level language features.
