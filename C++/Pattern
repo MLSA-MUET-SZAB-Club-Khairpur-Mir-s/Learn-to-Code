@@ -1,0 +1,30 @@
+#include <iostream>
+using namespace std;
+
+//creating method for printing pattern
+void pattern1()
+{
+   //declaring a variable
+    int number;
+    //taking input
+    cin >> number;
+
+//using loop for printing pattern
+    for (int row = 1; row <= number; row++) //NUMBER OF ROWS
+    {
+        for (int col = 1; col <= row; col++) // NUMBER OF COLS
+        {
+            cout <<i;
+        }
+        //printing space
+        cout<<""<< endl;
+    }
+}
+
+int main()
+{
+
+    pattern1();
+
+    return 0;
+}
