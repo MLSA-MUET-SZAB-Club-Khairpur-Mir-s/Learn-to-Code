@@ -30,6 +30,8 @@ Easy-to-maintain − Python's source code is fairly easy-to-maintain.
 
 A broad standard library − Python's bulk of the library is very portable and cross-platform compatible on UNIX, Windows, and Macintosh.
 
+Python was conceived in the late 1980s by Guido van Rossum at Centrum Wiskunde & Informatica (CWI) in the Netherlands as a successor to the ABC programming language, which was inspired by SETL, capable of exception handling and interfacing with the Amoeba operating system. Its implementation began in December 1989.
+
 Interactive Mode − Python has support for an interactive mode which allows interactive testing and debugging of snippets of code.
 
 Portable − Python can run on a wide variety of hardware platforms and has the same interface on all platforms.
