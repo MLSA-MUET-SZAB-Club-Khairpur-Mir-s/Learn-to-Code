@@ -3,10 +3,12 @@ using namespace std;
 
 int main() {
 
+  // declaring variables 
   int i, n;
   bool is_prime = true;//this is prime code
 
   cout << "Enter a positive integer: ";
+  // using input
   cin >> n;
 
   // 0 and 1 are not prime numbers
@@ -21,9 +23,10 @@ int main() {
       break;
     }
   }
-
+// using if condition 
   if (is_prime)
     cout << n << " is a prime number";
+  // another condition using
   else
     cout << n << " is not a prime number";
 
