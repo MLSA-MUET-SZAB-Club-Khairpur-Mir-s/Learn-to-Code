@@ -3,6 +3,8 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello World!";
+    for(int i=0; i<=1; i++;){
+        cout<<"hello world"<<endl;
+    
     return 0;
 }
