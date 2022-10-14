@@ -1,0 +1,30 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+cout << "\n-*-*-*-*- S h a p e   N o   T h r e e -*-*-*-*-\n" <<endl;
+    int i,j,k;
+        cin>>i,j,k;
+        for (i = 0; i <= 5; i++){
+                for (k= 5; k >=i; k--){
+                    cout << " " ; 
+					}
+                for (j= 1; j <=i; j++){
+                    cout << i <<" ";
+					}
+	    	cout <<endl;
+		}		
+
+            for (i=4;i>0;i--){
+                for (k= 4; k >=i; k--){
+                    cout   << " " ;
+                }
+                for (j=0;j<i;j++){
+                    cout << i  << " ";
+                } 
+			cout <<endl;
+				}
+			
+
+return 0;
+}
