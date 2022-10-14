@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <title>Calculator</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Calculator</h1>
+        <div class="calculator">
+        
+        <input type="text" name="screen" id="screen">
+        <table>
+            <tr>
+                <td><button>(</button></td>
+                <td><button>)</button></td>
+                <td><button>C</button></td>
+                <td><button>B</button></td>
+            </tr>
+            <tr>
+                <td><button>7</button></td>
+                <td><button>8</button></td>
+                <td><button>9</button></td>
+                <td><button>X</button></td>
+            </tr>
+            <tr>
+                <td><button>4</button></td>
+                <td><button>5</button></td>
+                <td><button>6</button></td>
+                <td><button>/</button></td>
+            </tr>
+            <tr>
+                <td><button>1</button></td>
+                <td><button>2</button></td>
+                <td><button>3</button></td>
+                <td><button>-</button></td>
+            </tr>
+            <tr>
+                <td><button>0</button></td>
+                <td><button>.</button></td>
+                <td><button>=</button></td>
+                <td><button>+</button></td>
+            </tr>
+        </table>
+        </div>
+   
+    
+    </div>
+    <script src="index.js"></script>
+</body>
+</html>
+
+//CSS//
+.container{
+    text-align: center;
+    
+}
+table{
+    margin: auto;
+}
+input{
+    border: 3px solid dodgerblue;
+    font-size: 20px;
+    width: 239px;
+    border-radius: 7px;
+    height: 32px;
+}
+button{
+    font-size: 22px;
+    background-color:darkturquoise;
+    height: 40px;
+    width: 59px;
+    border-radius: 14px
+}
+.calculator{
+    
+}  
+//JS//
+let screen = document.getElementById('screen');
+buttons = document.querySelectorAll('button');
+let screenValue ="";
+for(item of buttons){
+    item.addEventListener('click',(e)=>{
+        buttonText = e.target.innerText;
+        console.log("Your Button Value is "+buttonText);
+        if(buttonText=='X'){
+            buttonText = '*';
+            screenValue += buttonText;
+            screen.value= screenValue;
+        }
+        else if (buttonText == 'C'){
+            screenValue="";
+            screen.value=screenValue;
+        }
+        else if(buttonText =='B'){
+            
+            screen.value = screenValue.slice(length, length-1);
+        }
+        else if (buttonText=='='){
+            screen.value=eval(screenValue);
+
+        }
+        else{
+            screenValue+= buttonText;
+            screen.value =screenValue;
+        }
+    })
+}
