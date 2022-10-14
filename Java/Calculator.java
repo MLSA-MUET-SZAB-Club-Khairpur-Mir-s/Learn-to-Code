@@ -2,13 +2,14 @@ import java.util.Scanner;
 //importing scanner class
 public class Calculator {
   public static void main(String[] args) {
-
+    // Initializing character 
     char operator;
+    //Initializing Numbers and result
     int  number1, number2, result;
 
 
     Scanner input = new Scanner(System.in);
-    // Shakeel ka programe
+    // Taking input from user for operator and number
 
     System.out.println("Choose an operator: +, -, *, or /");
     operator = sc.next().charAt(0);
