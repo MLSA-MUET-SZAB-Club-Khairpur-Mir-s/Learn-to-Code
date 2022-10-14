@@ -4,7 +4,7 @@ import java.awt.event.*;
 import java.util.Random;
 
 class Game {
-
+    //Creating frame and Label
     JFrame frame;
     JLabel l1, l2, l3, l4, l5, showInput, result, win;
     JPanel imagePanel, inputPanel;
@@ -15,8 +15,9 @@ class Game {
     int present;
 
     Font verdana=new Font("Verdana", Font.PLAIN, 18);
-
+   
     Game() {
+        //creating present bottles 20
         present=20;
 
         frame = new JFrame();
@@ -139,6 +140,7 @@ class Game {
     }
 
     public void removeBeers(int nbr) {
+        //Checking Conditons for number of bottles
         while(nbr>0){
             beers[present].setIcon(null);
             present--;
