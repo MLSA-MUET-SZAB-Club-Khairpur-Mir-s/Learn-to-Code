@@ -1,6 +1,6 @@
 
-## Java
-# learning Tutorials
+##  learning Java
+# learning  Tutorials
 What is Java?
 Java is a popular programming language, created in 1995.
 
@@ -23,7 +23,7 @@ Java is a high-level, class-based, object-oriented programming language that is 
 Java was originally developed by James Gosling at Sun Microsystems. It was released in May 1995 as a core component of Sun Microsystems' Java platform. The original and reference implementation Java compilers, virtual machines, and class libraries were originally released by Sun under proprietary licenses. As of May 2007, in compliance with the specifications of the Java Community Process, Sun had relicensed most of its Java technologies under the GPL-2.0-only license. Oracle offers its own HotSpot Java Virtual Machine, however the official reference implementation is the OpenJDK JVM which is free open-source software and used by most developers and is the default JVM for almost all Linux distributions.
 
 Most Popular Language after C
-Java is among the most popular programming languages out there, mainly because of how versatile and compatible it is. Java can be used for a large number of things, including software development, mobile applications, and large systems development. Knowing Java opens a great deal of doors for you as a developer.
+Java is amincluding software development, mobile applications, and large systems development. Knowing Java opens a great deal of doors for you as a developer.
 
 Java-Oak At The beginning. The original name for Java was said to be Oak, named by the Java legend.
 
@@ -39,9 +39,6 @@ Let's start with the advantages that Java enjoys in the world of modern programm
 
 1. Massive Java codebases
 Related: Most Popular Programming Languages: What’s Hot, What’s Not in 2022
-
-Probably the best reason for learning Java in 2022 is the simple fact that a great deal of code has already been written in Java, and someone will need to maintain and update that code for decades to come.
-
 This means that learning Java is a great way to make yourself relevant to employers who need Java programmers. Whether or not you actually think Java is a good language to code in, the fact is that Java codebases — like those written in FORTRAN or COBOL decades ago — are not going anywhere. By extension, neither are jobs for Java programmers.
 
 2. Java runs anywhere
