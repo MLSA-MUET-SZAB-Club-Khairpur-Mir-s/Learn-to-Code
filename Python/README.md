@@ -1,5 +1,5 @@
 # Python
-# Basic tutorials
+# Basic learning tutorials
 Python is a high-level, interpreted, interactive and object-oriented scripting language. Python is designed to be highly readable. It uses English keywords frequently where as other languages use punctuation, and it has fewer syntactical constructions than other languages.
 
 Python is Interpreted − Python is processed at runtime by the interpreter. You do not need to compile your program before executing it. This is similar to PERL and PHP.
@@ -18,15 +18,6 @@ Python is derived from many other languages, including ABC, Modula-3, C, C++, Al
 Python is copyrighted. Like Perl, Python source code is now available under the GNU General Public License (GPL).
 
 Python is now maintained by a core development team at the institute, although Guido van Rossum still holds a vital role in directing its progress.
-
-Python Features
-Python's features include −
-
-Easy-to-learn − Python has few keywords, simple structure, and a clearly defined syntax. This allows the student to pick up the language quickly.
-
-Easy-to-read − Python code is more clearly defined and visible to the eyes.
-
-Easy-to-maintain − Python's source code is fairly easy-to-maintain.
 
 A broad standard library − Python's bulk of the library is very portable and cross-platform compatible on UNIX, Windows, and Macintosh.
 
@@ -79,13 +70,6 @@ Python can be used alongside software to create workflows.
 Python can connect to database systems. It can also read and modify files.
 Python can be used to handle big data and perform complex mathematics.
 Python can be used for rapid prototyping, or for production-ready software development.
-Why Python?
-Python works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc).
-Python has a simple syntax similar to the English language.
-Python has syntax that allows developers to write programs with fewer lines than some other programming languages.
-Python runs on an interpreter system, meaning that code can be executed as soon as it is written. This means that prototyping can be very quick.
-Python can be treated in a procedural way, an object-oriented way or a functional way.
-Good to know
 The most recent major version of Python is Python 3, which we shall be using in this tutorial. However, Python 2, although not being updated with anything other than security updates, is still quite popular.
 In this tutorial Python will be written in a text editor. It is possible to write Python in an Integrated Development Environment, such as Thonny, Pycharm, Netbeans or Eclipse which are particularly useful when managing larger collections of Python files.
 Python Syntax compared to other programming languages
