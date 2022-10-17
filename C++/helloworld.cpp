@@ -5,7 +5,7 @@ using namespace std;
 
 int main() {
    // program to print hellow world message 
-   cout<< "Software Department" <<endl;
+   cout<< " Eng Mohsin bhellar" <<endl;
   // Gul Zaman
   return 0;
 }
