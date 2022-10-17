@@ -1,0 +1,32 @@
+import java.util.*;
+
+import java.util.Random;
+ 
+class task7 {
+   
+ public static void main(String[] args)
+ {  
+Scanner sc=new Scanner(System.in);  
+
+  System.out.println("Enter 1 for Head or 0 for Tail : ");
+  int g= sc.nextInt();
+ Random randomGenerator= new Random(); 
+ int a=randomGenerator.nextInt(2);
+System.out.println("Randome number is :"+a);
+do
+{
+if(a==g)
+{
+System.out.println(" You have guess correct ");
+}
+else
+{
+System.out.println(" You have guess incorrect  ");
+System.out.print("Try again"); 
+break;
+}
+}
+while(a!=g);
+}
+
+}
