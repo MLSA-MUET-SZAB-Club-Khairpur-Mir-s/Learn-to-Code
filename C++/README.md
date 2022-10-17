@@ -1,4 +1,4 @@
-# Tutroials points for c++
+# Tutroials basic points for c++
 this  is very helpfull and intersted tutorial on c++
 it is basic language of program you can also used in electronic projects 
 
@@ -24,6 +24,4 @@ C++ is hard to learn because of its multi-paradigm nature and more advanced synt
 C++ is good for learning DSA
 data structure can be easily understand by using C++ language
 
-++ is a general purpose, case-sensitive, free-form programming language that supports object-oriented, procedural and generic programming.
-
-C++ is a middle-level language, as it encapsulates both high and low level language features.
+C++ is a general purpose, case-sensitive, free-form programming language that supports object-oriented, procedural and generic programming.
