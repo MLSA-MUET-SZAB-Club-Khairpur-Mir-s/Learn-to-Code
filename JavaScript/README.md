@@ -1,10 +1,5 @@
 # tutorials JavaScript
-7 JavaScript Concepts That Every Web Developer Should Know
-Difficulty Level : Medium
-Last Updated : 28 Sep, 2022
-Read
-Discuss
-
+Javascript is a most popular language 
 JavaScript is Everywhere. Millions of web pages are built on JavaScript and it’s not going anywhere at least for now. On one side HTML and CSS give styling to the web pages but on the other side, it’s the magic of JavaScript that makes your web page alive. Today this language is not just limited to your web browser. You can also use it for server-side applications. Isn’t it cool to use a single language for both client-side and server-side applications? A single language fulfills both of the purposes and this is the main reason TON of job posting is there for javascript developers in the tech industry. 
  
 
@@ -31,7 +26,3 @@ JavaScript is the programming language of the Web.
 JavaScript is easy to learn.
 
 This tutorial will teach you JavaScript from basic to advanced.
-
-Is JavaScript very easy?
-Image result for javascript w3schools
-JavaScript is a simple and easy-to-learn programming language as compared to other languages such as C++, Ruby, and Python. It is a high-level, interpreted language that can easily be embedded with languages like HTML.
