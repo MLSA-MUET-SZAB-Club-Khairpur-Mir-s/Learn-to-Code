@@ -22,7 +22,7 @@ class AWT_Example {
         Button bC = new Button(" Exit ");    
         
  
-        // setting position of above components in the frame
+        // managing the above buttons
           
         l.setBounds(70, 50, 150, 30);
 
@@ -39,7 +39,7 @@ class AWT_Example {
         bB.setBounds(120, 240, 50, 30);
         bC.setBounds(170, 240, 50, 30);
       
-        // adding components into frame    
+        // frames are being added to component   
         f.add(l);
     
         f.add(b1);
@@ -67,11 +67,11 @@ class AWT_Example {
         bC.setForeground(Color.white);
         // frame size 300 width and 330 height    
         f.setSize(300,330);  
-        // setting the title of frame  
+        // title of frame
         f.setTitle("GAME FRAME");     
-        // no layout  
+        // null layout  
         f.setLayout(null);   
-        // setting visibility of frame  
+        // frame visiablity  
         f.setVisible(true);  
 
         
