@@ -1,5 +1,5 @@
 # Python
-# Basic tutorials
+# Basic Phython tutorials
 Python is a high-level, interpreted, interactive and object-oriented scripting language. Python is designed to be highly readable. It uses English keywords frequently where as other languages use punctuation, and it has fewer syntactical constructions than other languages.
 
 Python is Interpreted − Python is processed at runtime by the interpreter. You do not need to compile your program before executing it. This is similar to PERL and PHP.
@@ -18,16 +18,6 @@ Python is derived from many other languages, including ABC, Modula-3, C, C++, Al
 Python is copyrighted. Like Perl, Python source code is now available under the GNU General Public License (GPL).
 
 Python is now maintained by a core development team at the institute, although Guido van Rossum still holds a vital role in directing its progress.
-
-Python Features
-Python's features include −
-
-Easy-to-learn − Python has few keywords, simple structure, and a clearly defined syntax. This allows the student to pick up the language quickly.
-
-Easy-to-read − Python code is more clearly defined and visible to the eyes.
-
-Easy-to-maintain − Python's source code is fairly easy-to-maintain.
-
 A broad standard library − Python's bulk of the library is very portable and cross-platform compatible on UNIX, Windows, and Macintosh.
 
 Python was conceived in the late 1980s by Guido van Rossum at Centrum Wiskunde & Informatica (CWI) in the Netherlands as a successor to the ABC programming language, which was inspired by SETL, capable of exception handling and interfacing with the Amoeba operating system. Its implementation began in December 1989.
@@ -60,10 +50,6 @@ It can be easily integrated with C, C++, COM, ActiveX, CORBA, and Java.
 
 While many people assume the name Python Programming comes from something related to the Python snake, it actually comes from the TV comedy series ‘Monty Python’s Flying Circus.’ This series broadcast on the BBC channel in the United Kingdom in the 1970s and was a favorite of Guido Van Rossum’s. Because it was short, cryptic, and included the name of his favorite TV comedy show, he chose the name ‘Python.’
 i love this programming language
-it will be very powerfull language and easy Good For Developers.
-
-
-
 What is Python?
 Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
 
