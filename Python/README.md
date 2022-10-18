@@ -1,5 +1,5 @@
 # Python
-# Basic Phython tutorials
+# Basic deep learning Phython tutorials
 Python is a high-level, interpreted, interactive and object-oriented scripting language. Python is designed to be highly readable. It uses English keywords frequently where as other languages use punctuation, and it has fewer syntactical constructions than other languages.
 
 Python is Interpreted − Python is processed at runtime by the interpreter. You do not need to compile your program before executing it. This is similar to PERL and PHP.
@@ -21,23 +21,7 @@ Python is now maintained by a core development team at the institute, although G
 A broad standard library − Python's bulk of the library is very portable and cross-platform compatible on UNIX, Windows, and Macintosh.
 
 Python was conceived in the late 1980s by Guido van Rossum at Centrum Wiskunde & Informatica (CWI) in the Netherlands as a successor to the ABC programming language, which was inspired by SETL, capable of exception handling and interfacing with the Amoeba operating system. Its implementation began in December 1989.
-
-Interactive Mode − Python has support for an interactive mode which allows interactive testing and debugging of snippets of code.
-
-Portable − Python can run on a wide variety of hardware platforms and has the same interface on all platforms.
-
-Extendable − You can add low-level modules to the Python interpreter. These modules enable programmers to add to or customize their tools to be more efficient.
-
-Databases − Python provides interfaces to all major commercial databases.
-
 GUI Programming − Python supports GUI applications that can be created and ported to many system calls, libraries and windows systems, such as Windows MFC, Macintosh, and the X Window system of Unix.
-
-Scalable − Python provides a better structure and support for large programs than shell scripting.
-
-Apart from the above-mentioned features, Python has a big list of good features, few are listed below −
-
-It supports functional and structured programming methods as well as OOP.
-
 It can be used as a scripting language or can be compiled to byte-code for building large applications.
 
 It provides very high-level dynamic data types and supports dynamic type checking.
