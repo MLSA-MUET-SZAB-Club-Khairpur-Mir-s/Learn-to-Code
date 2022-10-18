@@ -9,15 +9,15 @@ buttons = new Button[5];
 
 for(int i=0;i<5;i++){
 buttons[i]= new Button("Button" + (i+1));
-// adding the buttoons so that it can be displayed
+// buttons are being add so they can displayed
 add(buttons[i]);
 }
-// the button will be placed horizontally 
+// we place buttons horizantly
 setLayout(new BoxLayout(this, BoxLayout.X_AXIS));
 setSize(400,400);
 setVisible(true);
 }
-// Main Method 
+// main
 public static void main(String [] args){
 BoxLayout b = new BoxLayout();
 }
