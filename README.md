@@ -7,14 +7,14 @@
 
 > What you can contribute?
 
-Contribute in the code base. Provide programming example no matter how small or big it to the respective programming language folder if you don't find a folder with the language you want to contribute create it.
-Contribute with projects. Any project that you did in your school college or university you can put it here in the respective programming language folder.
-Contribute in Documentation. If you see there is way to improve our documentation or you find a typo or any broken link you can contribute in it as well.
+Contribute to the code base. Provide programming examples no matter how small or big it is, in the respective programming language folder. If you don't find a folder with the language you want to contribute, create it. 
+Contribute to projects. Any project that you did in your school, college, or university you can put here in the respective programming language folder. 
+Contribute to Documentation. If you notice a way to improve our documentation or find a typo, or any broken link, you can contribute to it as well.
 
 > How to Contribute? Step by Step Guide!
 
 *Step 1:*
-Look in the issues if the change you are doing is available and issues section is it assigned to someone or not if you can't find any issue open create one. Anyone from our team will assign you the issue then you can start contributing
+Look in the issues if the change you are doing is available and issues section is it assigned to someone or not. If you can't find any issue open, create one. Anyone from our team will assign you the issue then you can start contributing
 
 *Step 2:* 
 Fork this repository! *(Repo: Learn-to-Code)*
