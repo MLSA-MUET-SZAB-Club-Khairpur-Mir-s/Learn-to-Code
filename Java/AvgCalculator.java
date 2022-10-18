@@ -14,11 +14,11 @@ public class AvgCalculator {
         float avg = (s1+s2+s3)/3.0f;
         System.out.printf("Average is %f \n", avg);
         if(avg>=40 && s1>=35 && s2>=35 && s3>=35){
-            System.out.print("You are Expert in These Subs");
+            System.out.print("pass these subjects");
         }
         // using condition
         else{
-            System.out.print("Loser!");
+            System.out.print("Fail this subject improve your subjects!");
         }
     }
 }
