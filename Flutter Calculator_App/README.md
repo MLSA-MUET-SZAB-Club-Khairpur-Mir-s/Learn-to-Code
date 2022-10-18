@@ -1,8 +1,6 @@
 # flutter_calculator_app
 
-A new Flutter application.
-
-## Getting Started
+# A new Flutter application.
 
 This project is a starting point for a Flutter application.
 
