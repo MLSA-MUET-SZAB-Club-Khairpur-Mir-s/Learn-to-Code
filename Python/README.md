@@ -62,3 +62,35 @@ Python Syntax compared to other programming languages
 Python was designed for readability, and has some similarities to the English language with influence from mathematics.
 Python uses new lines to complete a command, as opposed to other programming languages which often use semicolons or parentheses.
 Python relies on indentation, using whitespace, to define scope; such as the scope of loops, functions and classes. Other programming languages often use curly-brackets for this purpose.
+# 1. Why is it called ‘Python’?
+While many people assume the name Python Programming comes from something related to the Python snake, it actually comes from the TV comedy series ‘Monty Python’s Flying Circus.’ This series broadcast on the BBC channel in the United Kingdom in the 1970s and was a favorite of Guido Van Rossum’s. Because it was short, cryptic, and included the name of his favorite TV comedy show, he chose the name ‘Python.’
+
+
+# 2. Poem Written about Python Programming
+Believe it or not, a man named Tim Peters composed a poem called ‘The Zen of Python’ about Python programming. Simply type ‘import this’ into an interpreter to read this poetry.It’s a fascinating and entertaining poetry that you should read for yourself.
+
+
+# 3. Python has overtaken French in primary schools
+Doesn’t this one sound funny? Believe it or not, Python surpassed French as the most popular primary school language in 2015. Statistics show that 60% parents would prefer their children to learn Python than French. This shows that the importance of Python programming was acknowledged by a vast number of people. According to the same figures, 75 % of children in primary school would rather learn how to manage a robot than learn French.
+
+
+# 4. There are C and Java Variants in Python
+Python offers variations for the C and Java programming languages, despite being a self-contained programming language. The C derivative, known as CPython, was built to give Python the benefits of C. One of these criteria is performance. The variation can be used as an interpreter as well as a compiler.
+
+Jython is Python’s Java implementation. It allows some of Java’s most important features, such as productivity, to run on a virtual machine.
+
+
+# 5. Python does not require a compiler
+Python is a high-level, interpreted language that does not require a compiler, unlike other programming languages such as Java and C++.Python code is stored in a .pyc file, which serves as the Python engine and eliminates the need for a compiler.
+
+
+# 6. Python is one of Google’s official programming languages
+Python is one of the few programming languages that has been designated as an official Google language. Python became one of Google’s official programming languages due of its efficiency. It was advantageous to them because it is simple to use, even on large projects. Even YouTube is powered by Python programming.
+
+
+# 7. Python is similar to English
+Many people claim that Python is a simple language to learn. The fundamental reason for this claim is that Python is more similar to English than other programming languages. It’s simple to figure out what each line of code accomplishes. Everything is simple and straightforward.
+
+
+# 8. Wide range of aspects
+Python is a general-purpose programming language. In fact, it can be used in a wide range of coding scenarios like web development, artificial intelligence, machine learning, data analytics, internet of things and many more.
