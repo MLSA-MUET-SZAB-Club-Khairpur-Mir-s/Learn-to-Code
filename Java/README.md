@@ -66,3 +66,56 @@ As of September 2022, Java 19 is the latest version, while Java 17, 11 and 8 are
 
 Dart is an open-source general-purpose programming language. It is originally developed by Google and later approved as a standard by ECMA. Dart is a new programming language meant for the server as well as the browser. Introduced by Google, the Dart SDK ships with its compiler – the Dart VM. The SDK also includes a utility -dart2js, a transpiler that generates JavaScript equivalent of a Dart Script. This tutorial provides a basic level understanding of the Dart programming language.
 
+
+# Some interesting facts that all programmers should know about Java
+Java, the long-lasting programming language, remains immensely popular and for many good reasons. In fact, many programmers swear by the stability of Java.
+
+# Java is the go-to language for millions of software developers. Java emerged as a tech juggernaut because of its unique portability and its capability of operating similarly on any hardware or operating system.
+
+It’s secure, simple and robust, so with these attractive qualities in mind, here are some facts about Java which you probably did not know
+
+
+# Java was called Oak at the beginning
+The original name for Java was Oak. Java legend has it that a big oak tree that grew outside the developer James Gosling’s window.
+It was eventually changed to Java by Sun’s marketing department when Sun lawyers found that there was already a computer company registered as Oak.
+Another legend has it that Gosling and his gang of programmers went out to the local cafe to discuss names and wound up naming it Java.
+There seems to be some truth in this as the “0xCafeBabe” magic number in the class files was named after the Cafe where the Java team used to go for coffee.
+
+# Java was invented by accident
+James Gosling was working at Sun Labs, around 1992. Gosling and his team were building a set-top box and started by “cleaning up” C++ and wound up with a new language and runtime. Thus Java or Oak came into being
+
+# It pays to learn Java
+The median salary of a Java developer is $83,975.00. Yes, it pays to be a Java developer and programmers are milking it. There are about 9 million Java developers in the world.
+
+# Java is the second most popular language after C
+Though many would argue that Java is all time favorite among developers, it is second most popular programming language after C.
+
+Java is ranked #2 in popularity among programming languages, according to the programming languages popularity tracking website, tiobe.com.
+
+# JUnit Testing Framework
+The JUnit Testing Framework is currently the top used Java technology.
+
+Its stability and popularity can be deduced from the fact that almost 4 out of 5 Java developers or 70 % developers out there used JUnit Testing Framework.
+
+# Java is the go-to tool for enterprises
+95 percent of enterprises use Java for programming. That is hell lot more than C and other languages put together.
+
+# Current Java version
+Java’s latest major release is the Platform Standard Edition 8. Its features include improved developer productivity and app performance through a reduced boilerplate code, improved collections, and annotations.
+
+# The Duke
+The Java mascot, ‘The Duke’ was created by Joe Palrang. Palrang is the same guy who has worked on the Hollywood blockbuster, Shrek.
+
+# Java and Android
+Java practically runs on 1billion plus smartphones today because Google’s Android operating system uses Java APIs.
+
+# Final is not final in Java
+Final actually has four different meanings in Java.
+
+1) final class- The class cannot be extended
+
+2) Final method- the method cannot be overridden
+
+3) final field- The field is a constant
+
+4)final variable- the value of the variable cannot be changed once assigned
