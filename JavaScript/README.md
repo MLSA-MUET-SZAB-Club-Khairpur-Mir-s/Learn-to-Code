@@ -21,3 +21,34 @@ This tutorial will teach you JavaScript from basic to advanced.
 Is JavaScript very easy?
 Image result for javascript w3schools
 JavaScript is a simple and easy-to-learn programming language as compared to other languages such as C++, Ruby, and Python. It is a high-level, interpreted language that can easily be embedded with languages like HTML.
+
+# JavaScript took just 10 days to develop.
+JavaScript was invented in 1995 by Brendan Eich for use with the Netscape 2 browser. The original name for JavaScript was Mocha. In my opinion, I’ve gotten a few too many questions from non-programmers confusing JavaScript and Java, so maybe Mocha would have been the right call.
+
+# JavaScript was probably named after Java.
+JavaScript is about as similar to Java as a hamburger is similar to ham. But, there used to be support for running Java in the browser by way of Java “applets”. This technology is now completely deprecated, but at the time, it likely made more sense to piggy-back off the popularity of Java for the sake of widespread adoption.
+
+# GitHub says JavaScript is the Most Popular language in the world.
+According to https://octoverse.github.com/, JavaScript has been the most widely used language across GitHub repositories since 2014, when this statistic was first tracked. Here’s a few reasons why that may be:
+
+# JavaScript is the de facto standard for building websites, and websites are essential for virtually any organization.
+JavaScript is commonly taught and fairly easy to learn, making it popular among developers.
+The heavily client-side nature of the language makes JavaScript repositories likelier to be open-source, potentially skewing the rankings away from large, private, enterprise-style projects.
+# JavaScript is responsible for Web2, precursor to Web3
+Maybe you’ve heard of Web3, the idea of a blockchain-enabled class of distributed web applications that will take over the world. Whether or not you believe in this technology, it’s worth knowing that the predecessor to Web3 is merely bidirectional site communication (Web2). Effectively, this means sites and apps that can communicate back and forth with a server, and potentially across other sites. And, of course, we have JavaScript’s “Ajax” requests to thank for popularizing this pattern.
+
+# JavaScript has many implementations, but a single “owner”: ECMA
+You may have heard of “ECMAScript” or ES6 (a.k.a. ECMAScript 6), but did you know that ECMA is responsible for governing and maintaining the language specification? In other words, all of the crazy JavaScript syntax we know and love is attributable to ECMA, “a Swiss based not-for-profit association”. The highest-ranked members of this association are representatives from:
+
+Facebook
+Google
+Hitachi
+IBM
+Microsoft
+Paypal
+So these companies have a lot of say in the direction of the language.
+
+# In reality, there is no longer one “true” JavaScript.
+Despite all the organization done by ECMA, there have been many use cases added to JavaScript that aren’t officially part of the language spec. For example, React.js and other libraries use JSX syntax, which adds syntactic sugar for defining UI components. TypeScript is also a superset of the JavaScript language. It adds typing features designed to reduce the likelihood of type errors. While such features may not officially be part of the language, there are “transcompilers” like Babel that exist for translating them back into official, ES6 JavaScript to be run in the browser, server, or another application.
+
+
