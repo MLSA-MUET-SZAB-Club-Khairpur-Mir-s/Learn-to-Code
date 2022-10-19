@@ -66,3 +66,13 @@ As of September 2022, Java 19 is the latest version, while Java 17, 11 and 8 are
 
 Dart is an open-source general-purpose programming language. It is originally developed by Google and later approved as a standard by ECMA. Dart is a new programming language meant for the server as well as the browser. Introduced by Google, the Dart SDK ships with its compiler – the Dart VM. The SDK also includes a utility -dart2js, a transpiler that generates JavaScript equivalent of a Dart Script. This tutorial provides a basic level understanding of the Dart programming language.
 
+# Why Use Java?
+Java works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc.)
+It is one of the most popular programming language in the world
+It has a large demand in the current job market
+It is easy to learn and simple to use
+It is open-source and free
+It is secure, fast and powerful
+It has a huge community support (tens of millions of developers)
+Java is an object oriented language which gives a clear structure to programs and allows code to be reused, lowering development costs
+As Java is close to C++ and C#, it makes it easy for programmers to switch to Java or vice versa
