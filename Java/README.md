@@ -1,6 +1,6 @@
 
 ##  learning Java
-# learning Deep  Tutorials
+# learning Deep basic points Tutorials
 What is Java?
 Java is a popular programming language, created in 1995.
 
@@ -37,18 +37,9 @@ Another factor that drove Java's popularity when it appeared decades ago was its
 Java's modularity and object-oriented architecture remain selling points for the language today because they make Java a good solution for developers who want to reuse code across a business. Java makes it especially easy to avoid having to build each new app from the ground up, and instead borrow from existing codebases to create new ones faster.
 
 Why You (Maybe) Shouldn't Learn Java Programming Language
-On the other hand, you can make a cogent argument for why Java is increasingly not worth learning.
-
 1. Java is becoming less popular
 First and foremost, Java seems to be slipping slowly in popularity. For years, it was the most popular language, but it's now in third place. This means that, over time, fewer and fewer new applications are likely to be written in Java.
-
-
 That doesn't mean, of course, that Java is going away. On the contrary, as noted, it's likely that businesses across the world will need Java programmers for decades to come to maintain legacy codebases.
-
-The reason why is that we live in a software-defined world. Today, virtual machines, containers, and cloud services make it easy to run an application wherever you want, without worrying about the underlying environment configuration.
-
-In other words, you don't have to change your code to make your app work where you need it to work. You can change the hosting environment instead.
-
 This isn't to say that application portability no longer matters. It's just not as critical as it used to be, and that makes Java a bit less important by extension.
 
 3. Java is not simple
