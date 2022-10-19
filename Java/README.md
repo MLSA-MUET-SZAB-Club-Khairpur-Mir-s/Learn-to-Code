@@ -1,6 +1,6 @@
 
-##  learning Java
-# learning Deep  Tutorials
+##  learning basic Java 
+# learning Deep Tutorials points
 What is Java?
 Java is a popular programming language, created in 1995.
 
@@ -56,13 +56,8 @@ Java may be easy to learn, but it's not simple.
 
 The language is easy to learn because Java code is straightforward to write, organize, and compile. But it's not simple because code written in Java tends to be more verbose and more tedious to write. You also have to compile it, which makes Java much less convenient than languages like Python.
 
-So, if you're a college student learning to code for the first time, Java can be a good language to start with. If you're a professional who wants to churn out simple, elegant code and deploy it quickly, Java is not the ideal choice.
 
 Conclusion
 It's very unlikely that Java will disappear anytime soon. It remains far too deeply embedded into the programming culture and codebases to be nearing its demise.
 
-Still, Java is not the obvious, go-to, general-purpose programming language that it was back in the late 1990s or 2000s. Arguably, Java's heyday has passed, and it only makes sense to learn the Java programming language today if you have specific goals — like getting a job where you'll maintain legacy Java codebases, or gaining an introduction to 
 As of September 2022, Java 19 is the latest version, while Java 17, 11 and 8 are the current long-term support (LTS) versions.
-
-Dart is an open-source general-purpose programming language. It is originally developed by Google and later approved as a standard by ECMA. Dart is a new programming language meant for the server as well as the browser. Introduced by Google, the Dart SDK ships with its compiler – the Dart VM. The SDK also includes a utility -dart2js, a transpiler that generates JavaScript equivalent of a Dart Script. This tutorial provides a basic level understanding of the Dart programming language.
-
