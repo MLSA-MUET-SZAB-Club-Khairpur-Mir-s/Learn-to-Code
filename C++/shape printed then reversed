@@ -4,7 +4,10 @@ int main()
 {
 cout << "\n-*-*-*-*- S h a p e   N o   T h r e e -*-*-*-*-\n" <<endl;
     int i,j,k;
+    // inputing value of variables
         cin>>i,j,k;
+	
+	// using loop
         for (i = 0; i <= 5; i++){
                 for (k= 5; k >=i; k--){
                     cout << " " ; 
