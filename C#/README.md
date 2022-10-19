@@ -14,3 +14,5 @@ C is a general-purpose programming language created by Dennis Ritchie at the Bel
 C# (C-Sharp) is a programming language developed by Microsoft that runs on the .NET Framework.
 
 C# is used to develop web apps, desktop apps, mobile apps, games and much more.
+
+C# is a simple, modern, general-purpose, object-oriented programming language developed by Microsoft within its .NET initiative led by Anders Hejlsberg. This tutorial will teach you basic C# programming and will also take you through various advanced concepts related to C# programming language.
