@@ -10,7 +10,7 @@ Python is Object-Oriented − Python supports Object-Oriented style or technique
 
 Python is a Beginner's Language − Python is a great language for the beginner-level programmers and supports the development of a wide range of applications from simple text processing to WWW browsers to games.
 
-History of Python
+# History of Python
 Python was developed by Guido van Rossum in the late eighties and early nineties at the National Research Institute for Mathematics and Computer Science in the Netherlands.
 
 Python is derived from many other languages, including ABC, Modula-3, C, C++, Algol-68, SmallTalk, and Unix shell and other scripting languages.
@@ -27,6 +27,24 @@ It can be used as a scripting language or can be compiled to byte-code for build
 It provides very high-level dynamic data types and supports dynamic type checking.
 
 It supports automatic garbage collection.
+What is Python used for?
+Python is commonly used for developing websites and software, task automation, data analysis, and data visualization. Since it’s relatively easy to learn, Python has been adopted by many non-programmers such as accountants and scientists, for a variety of everyday tasks, like organizing finances.
+
+“Writing programs is a very creative and rewarding activity,” says University of Michigan and Coursera instructor Charles R Severance in his book Python for Everybody. “You can write programs for many reasons, ranging from making your living to solving a difficult data analysis problem to having fun to helping someone else solve a problem.”
+
+What can you do with python? Some things include:
+
+Data analysis and machine learning
+
+Web development
+
+Automation or scripting
+
+Software testing and prototyping
+
+Everyday tasks
+
+Here’s a closer look at so
 
 It can be easily integrated with C, C++, COM, ActiveX, CORBA, and Java.
 
@@ -43,19 +61,19 @@ web development (server-side),
 software development,
 mathematics,
 system scripting.
-What can Python do?
+# What can Python do?
 Python can be used on a server to create web applications.
 Python can be used alongside software to create workflows.
 Python can connect to database systems. It can also read and modify files.
 Python can be used to handle big data and perform complex mathematics.
 Python can be used for rapid prototyping, or for production-ready software development.
-Why Python?
+# Why Python?
 Python works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc).
 Python has a simple syntax similar to the English language.
 Python has syntax that allows developers to write programs with fewer lines than some other programming languages.
 Python runs on an interpreter system, meaning that code can be executed as soon as it is written. This means that prototyping can be very quick.
 Python can be treated in a procedural way, an object-oriented way or a functional way.
-Good to know
+# Good to know
 The most recent major version of Python is Python 3, which we shall be using in this tutorial. However, Python 2, although not being updated with anything other than security updates, is still quite popular.
 In this tutorial Python will be written in a text editor. It is possible to write Python in an Integrated Development Environment, such as Thonny, Pycharm, Netbeans or Eclipse which are particularly useful when managing larger collections of Python files.
 Python Syntax compared to other programming languages
