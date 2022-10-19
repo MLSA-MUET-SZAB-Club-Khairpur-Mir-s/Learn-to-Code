@@ -30,3 +30,10 @@ Additionally, third-party publishers and the broader community publish thousands
 XML
 Dart’s compiler technology lets you run code in different ways:
 Native platform: For apps targeting mobile and desktop devices, Dart includes both a Dart VM with just-in-time (JIT) compilation and an ahead-of-time (AOT) compiler for producing machine code.
+Dart is an open-source general-purpose programming language developed by Google. It supports application development in both client and server-side. But it is widely used for the development of android apps, iOS apps, IoT(Internet of Things), and web applications using the Flutter Framework.
+# intro to dart
+Dart is the open-source programming language originally developed by Google. It is meant for both server side as well as the user side. The Dart SDK comes with its compiler – the Dart VM and a utility dart2js which is meant for generating Javascript equivalent of a Dart Script so that it can be run on those sites also which don’t support Dart. 
+
+Dart is Object-oriented language and is quite similar to that of Java Programming. Dart is extensively use to create single-page websites and web-applications. Best example of dart application is Gmail.
+
+You can install Dart SDK from their official website or download the installer from this site.
