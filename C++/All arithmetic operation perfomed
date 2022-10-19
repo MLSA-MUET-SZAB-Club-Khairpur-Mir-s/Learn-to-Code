@@ -1,12 +1,16 @@
 #include<iostream>
 using namespace std;
 int main(){
+
+// initializing variables
     int a, b;
     long double sub;
     long int mul;
     long long mod;
     int sum ;
     float division;
+    
+    // inputing variables
 cin>>a;
 cin>>b;
 cout<<"addition of a & b: "<<a+b<<endl;
