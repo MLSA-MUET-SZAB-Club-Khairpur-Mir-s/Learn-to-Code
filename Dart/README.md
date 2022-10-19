@@ -1,4 +1,11 @@
 #3 DART
+# How Dart Started
+Two engineers from Google launched “Dart”, on 10 October 2011, at the GOTO conference, as a brand new programming language designed to help developers build web applications. Dart 1.0 was released on November 14th, 2013.
+
+And as always, everything that comes out of Google is received with great interest in the tech world. Truth be told, the original Dart project was going through a stagnation since its inception, (because initially, they wanted the Dartlang to replace Javascript, or act like CoffeeScript). But so much has changed since then. Now the prime focus behind Dart has shifted, and Dart is being implemented in a wide range of projects.
+
+Anyway, let’s not get too much in detail about why and how Dart started. Point is, Dart today is so much more than what it was initially intended to be. Sounds familiar, right? Javascript too has become like that. But unlike Javascript, Dart is much much better from a language point of view. If you are wondering why you should even care about Dart, then read ahead.
+
 # Basic Points of Dart
 Dart is an open-source general-purpose programming language. It is originally developed by Google and later approved as a standard by ECMA. Dart is a new programming language meant for the server as well as the browser. Introduced by Google, the Dart SDK ships with its compiler –- the Dart VM. The SDK also includes a utility -dart2js, a transpiler that generates JavaScript equivalent of a Dart Script. This tutorial provides a basic level understanding of the Dart programming language.
 
