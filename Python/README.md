@@ -80,3 +80,38 @@ Python Syntax compared to other programming languages
 Python was designed for readability, and has some similarities to the English language with influence from mathematics.
 Python uses new lines to complete a command, as opposed to other programming languages which often use semicolons or parentheses.
 Python relies on indentation, using whitespace, to define scope; such as the scope of loops, functions and classes. Other programming languages often use curly-brackets for this purpose.
+
+# What is Python Programming? 
+Python programming is a high-level computer programming language with dynamic semantics. It is a highly interpreted and object-oriented language with built-in data structures, combined with dynamic typing and dynamic binding, which makes it very attractive for Rapid Application Development.
+
+# What is Python Used For? 
+Python is the best computer programming language used to build websites and software, automate tasks, and conduct data analysis. Python is used to create a variety of different programs and isn’t specialized for any specific problems, as it is a general-purpose language. Its versatile feature, along with its beginner-friendliness, makes Python one of the most-used programming languages today.
+
+# Where is Python Used? 
+Python is used in everything from machine learning to building websites and software testing. Python is used across a wide variety of industries. Of Course, the most common areas where Python language is used are for building mobile, web and desktop applications. Python is also used when testing these applications. It is used in creating recommendation algorithms, building software that controls self-driving cars, automates our everyday tasks, from web development to scripting, software testing, and prototyping. Below we have listed the different uses of Python. 
+
+# Python For Multi-purpose Usage
+Python Is Used Across Various Forms of Programming
+Python Is Used In Specialists Areas
+Python Used For Data Science
+Python Used For Data Science
+Python Preferred by Large Companies  
+Python For Multi-purpose Usage
+It is a perfect language for multiple purposes, including:   
+
+# Web app development
+Quick prototyping
+Scripting
+Data science
+Database programming
+Python Is Used Across Various Forms of Programming
+Python's user base is growing rapidly as it is used in all forms of programming. Some of these programming forms are quick automation, cross-platform shell scripting, simple web development, Artificial Intelligence, Machine Learning, data analysis and visualization.
+
+# Python Is Used In Specialists Areas
+Specialists who are working in different areas of disciplines such as Finance, Insurance use Python for improving performance with the help of automation. Automating all the boring and repetitive activities such as viewing, copying, renaming, uploading files to a server, and downloading websites or parsing data can be done with the help of Python.  
+
+# Python Used For Data Science
+You are not required to be a software developer to use Python. Python facilitates data analysis and visualization. The rich and efficient libraries allow data processing. It helps data scientists to perform complex numeric computing operations.
+
+# Python Preferred by Large Companies 
+Some of the biggest companies in the world use Python language for various purposes. For example, Pixar uses it to produce films, Google uses it to crawl web pages, Netflix uses it to deliver content, and Spotify uses it to recommend songs.
