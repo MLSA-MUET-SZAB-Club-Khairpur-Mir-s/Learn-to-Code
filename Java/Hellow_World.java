@@ -4,8 +4,8 @@
 public class Hellow_World {
     public static void main(String arg[]) {
 
-     
-          System.out.print("NAME");
+     // printing output of the program
+          System.out.print("Gul Zaman");
 
     
 }
