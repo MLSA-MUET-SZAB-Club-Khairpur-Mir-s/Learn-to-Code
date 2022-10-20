@@ -1,0 +1,20 @@
+public class Lab03_task02 {
+    public static void main(String[] args) {
+        // Write a Java program to print out first 40 prime numbers
+    int counter = 0;
+        for(int i=2;i<=40;i++){
+            for(int j=2;j<i;j++){
+              if(i%j==0) {
+                  counter++;
+                  break;
+              }
+            }
+            if(counter==0) {
+                System.out.println(i + " ");
+            }
+            else {
+                counter=0;
+            }
+     }
+  }
+}
