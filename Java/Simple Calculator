@@ -1,0 +1,14 @@
+public class Lab02_task01 {
+    public static void main(String[] args) {
+        // make a simple calculator
+        int a=40;
+        int b=22;
+
+        System.out.println("your sum is : "+(a+b));
+        System.out.println("your Subtraction  is : "+(a-b));
+        System.out.println("your multiplication is : "+(a*b));
+        System.out.println("your division is : "+(a/b));
+        System.out.println("your Modulus is : "+(a%b));
+
+    }
+}
