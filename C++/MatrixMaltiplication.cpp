@@ -1,7 +1,11 @@
 #include <iostream>
 using namespace std;
 int main(){
+   
+   // initializing rows and colomns
    int row1 , row2 , column1 , column2;
+   
+   // declaring array
    int result[3][3]={0};
    cout<<"Enter the rows of first matrix ";
    cin>> row1;
@@ -35,7 +39,7 @@ int main(){
        }
     } cout<<endl;
 
-    //printing the values of first matrix
+    //printing 1st matrix
     cout<<"The elements of first matrix are"<<endl;
     for(int i=0; i<row1; i++){
         cout<<"[";
@@ -44,7 +48,7 @@ int main(){
        }
        cout<<"]"<<endl;
     }
-     //printing the values of second matrix
+     //printing  second matrix
      cout<<"The elements of second matrix are"<<endl;
      for(int i=0; i<row2; i++){
         cout<<"[";
@@ -53,6 +57,8 @@ int main(){
        }
        cout<<"]"<<endl;
     }
+   
+   // using if condition
    if(column1==row2){
     cout<<"Multiplication is possible "<<endl;
     int sum;
@@ -72,4 +78,6 @@ int main(){
    else{
        cout<<"Multiplication is not possible ";
    }
+   
+   // return type
 return 0;}
