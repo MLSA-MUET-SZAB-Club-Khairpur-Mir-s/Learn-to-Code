@@ -1,0 +1,30 @@
+public class circle {
+    private float circum; // this is the private method in which we Hidding the data
+    private float area;
+
+    public void setCircum(float r){ // setter is use to set the data
+
+        circum=2*3.142f*r;
+    }
+    public float getCircum(){ // getter is use to access the data
+        return circum;
+    }
+    public void setArea(int r){
+        area=3.142f*r*r;
+    }
+    public float getArea(){
+        return area;
+    }
+    public static void main(String[] args) {
+        circle amir=new circle();
+        amir.setCircum(4);
+        System.out.print("This is our circumference : ");
+        System.out.println(amir.getCircum());
+        amir.setArea(5);
+        System.out.print("your area is :");
+        System.out.println(amir.getArea());
+        
+
+
+    }
+}
