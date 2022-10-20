@@ -3,9 +3,9 @@ using namespace std;
 
 int main(){
     int year;
-    cin>>year;
+    cin>>year;//Take the year as input
 
-    if(year % 4 == 0 && (year % 400 == 0 || year % 100 != 0)){
+    if(year % 4 == 0 && (year % 400 == 0 || year % 100 != 0)){ //Condition to check leap year
         cout<<"It is a leap year!"<<endl;
     }
     else{
