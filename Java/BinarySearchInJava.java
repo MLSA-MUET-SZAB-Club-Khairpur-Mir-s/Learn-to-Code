@@ -32,7 +32,7 @@
     int n = array.length;
 
     // get input from user for element to be searched
-    Scanner input = new Scanner(System.in);
+    Scanner input = new Scanner(System.in); // Scanner Class For Keyboard Input
 
     System.out.println("Enter element to be searched:");
 
