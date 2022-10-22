@@ -115,3 +115,5 @@ You are not required to be a software developer to use Python. Python facilitate
 
 # Python Preferred by Large Companies 
 Some of the biggest companies in the world use Python language for various purposes. For example, Pixar uses it to produce films, Google uses it to crawl web pages, Netflix uses it to deliver content, and Spotify uses it to recommend songs.
+# What is Python used for?
+Python is commonly used for developing websites and software, task automation, data analysis, and data visualization. Since it's relatively easy to learn, Python has been adopted by many non-programmers such as accountants and scientists, for a variety of everyday tasks, like organizing finances.
