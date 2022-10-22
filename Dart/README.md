@@ -22,3 +22,6 @@ Support for asynchronous programming, with classes such as Future and Stream (da
 Lists that efficiently handle fixed-sized data (for example, unsigned 8-byte integers) and SIMD numeric types (dart:typed_data)
 Additionally, third-party publishers and the broader community publish thousands of packages, with support for features like these:
 XM
+# What is Dart used for?
+Image result for dart
+Dart is a client-optimized language for developing fast apps on any platform. Its goal is to offer the most productive programming language for multi-platform development, paired with a flexible execution runtime platform for app frameworks.
