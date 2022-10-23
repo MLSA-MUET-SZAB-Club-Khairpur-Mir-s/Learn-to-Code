@@ -25,6 +25,7 @@ public class DataBinderMapperImpl extends DataBinderMapper {
   static {
     INTERNAL_LAYOUT_ID_LOOKUP.put(com.example.databinding.R.layout.activity_main, LAYOUT_ACTIVITYMAIN);
   }
+  //hello
 
   @Override
   public ViewDataBinding getDataBinder(DataBindingComponent component, View view, int layoutId) {
