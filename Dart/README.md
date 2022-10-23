@@ -1,5 +1,7 @@
 #3 DART
 # Basic deep learning tutroials Points of Dart
+# What language is used in Dart?
+Dart is a descendant of the ALGOL language family, alongside C, Java, C#, JavaScript, and others. The method cascade syntax, which provides a syntactic shortcut for invoking several methods one after another on the same object, is adopted from Smalltalk.
 Dart is an open-source general-purpose programming language. It is originally developed by Google and later approved as a standard by ECMA. Dart is a new programming language meant for the server as well as the browser. Introduced by Google, the Dart SDK ships with its compiler –- the Dart VM. The SDK also includes a utility -dart2js, a transpiler that generates JavaScript equivalent of a Dart Script. This tutorial provides a basic level understanding of the Dart programming language.
 
 Dart is the client-optimized language for developing fast apps on any platform. Its goal is to offer the most productive programming language for multi-platform development, Paired with a flexible execution runtime platform for app frameworks.
@@ -20,3 +22,6 @@ Support for asynchronous programming, with classes such as Future and Stream (da
 Lists that efficiently handle fixed-sized data (for example, unsigned 8-byte integers) and SIMD numeric types (dart:typed_data)
 Additionally, third-party publishers and the broader community publish thousands of packages, with support for features like these:
 XM
+# What is Dart used for?
+Image result for dart
+Dart is a client-optimized language for developing fast apps on any platform. Its goal is to offer the most productive programming language for multi-platform development, paired with a flexible execution runtime platform for app frameworks.
