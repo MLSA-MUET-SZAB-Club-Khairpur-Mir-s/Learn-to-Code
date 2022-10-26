@@ -2,7 +2,7 @@ import java.awt.*;
 
 import javax.swing.plaf.nimbus.NimbusLookAndFeel;      
 class AWT_Example {    
-   //
+   //hello world
     AWT_Example(){   
         Frame f = new Frame();    
         Label l = new Label("         NAME OF GAME ");  
