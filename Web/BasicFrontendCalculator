@@ -11,7 +11,7 @@
     <div class="container">
         <h1>Calculator</h1>
         <div class="calculator">
-        
+        <labe> Scientific Calculator</label>
         <input type="text" name="screen" id="screen">
         <table>
             <tr>
@@ -50,12 +50,19 @@
     
     </div>
     <script src="index.js"></script>
+    
 </body>
 </html>
 
 //CSS//
+*{ 
+margin:0;
+padding:0;
+}
 .container{
     text-align: center;
+    border:20px;
+    border-radius:3px;
     
 }
 table{
