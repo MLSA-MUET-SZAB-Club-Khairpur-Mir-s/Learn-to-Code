@@ -4,7 +4,7 @@ public class task15 {
         Scanner sc = new Scanner(System.in);
         int sum=0;
         int x;
-       
+       //print line break;
         System.out.println();
         do {
             System.out.print("Enter an int value (the program exits if the input is 0): ");
