@@ -6,8 +6,12 @@ class ArrayTask{
     
     //this is an array task
     
-    int[] number = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15};
+    int[] number = new int[10] ;
+    
     Scanner sc= new Scanner(System.in);
+    for(int i =0; i<10; i++){
+      number[i]= i;
+    }
     System.out.print(" Enter the number :");
     int check = sc.nextInt();
 
