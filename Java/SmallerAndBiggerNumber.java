@@ -22,7 +22,7 @@ public class SmallerAndBiggerNumber {
             }
             a++;
         }
-        System.out.println("Smallest : "+smallest);
-        System.out.println("Bigget : "+biggest);
+        System.out.println("Smallest  number is: "+smallest);
+        System.out.println("Bigget  number is: "+biggest);
     }
 }
