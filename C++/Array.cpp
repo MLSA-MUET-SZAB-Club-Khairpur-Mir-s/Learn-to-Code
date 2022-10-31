@@ -5,7 +5,7 @@ int main(){
 	a[0]=1;
 	a[1]=3;
 	
-	
+	// Comment
 	for(int i=0;i<2;i++){
 		cout<<a[i]<<endl;
 	}
