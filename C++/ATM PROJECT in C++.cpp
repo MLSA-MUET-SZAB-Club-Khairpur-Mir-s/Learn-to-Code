@@ -75,7 +75,7 @@ int main(){
 				}
 				break;
 			case 'c':
-			    //transfer.........	
+			    //transfer.........	cout<<"enter your total amount"<<endl;
 			cout<<"Your current amount present in your account is: "<<balance1<<endl;
 			cout<<"Please enter the amount that you want to transfer.Limit from 500 to 25000."<<endl;
 			cin>>b;
