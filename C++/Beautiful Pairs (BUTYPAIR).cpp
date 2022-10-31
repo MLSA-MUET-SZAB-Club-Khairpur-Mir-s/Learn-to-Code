@@ -26,6 +26,7 @@ void solve()
     d+=(n-i.second)*i.second;
     cout<<d<<"\n";
 }
+// now code
 int main()
 {    
     ios_base::sync_with_stdio(false);
