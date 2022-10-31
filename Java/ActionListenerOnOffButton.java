@@ -5,6 +5,7 @@ import java.awt.Button;
 import java.awt.event.*;
 public class ActionListenerOnOffButton {
     ActionListener(){
+        //creating objects.
         Frame f = new Frame();
         Label lb = new Label();
         Button btn = new Button("Click");
@@ -12,6 +13,7 @@ public class ActionListenerOnOffButton {
         btn.setBounds(100,100,40,15);
         lb.setBounds(100,50,50,50);
 
+        //adding action listener.
         btn.addActionListener(new java.awt.event.ActionListener() {
         int i = 2;
                                   @Override
