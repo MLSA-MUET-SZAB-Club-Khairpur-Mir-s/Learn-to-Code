@@ -11,6 +11,7 @@ int main(){
     float division;
     
     // inputing variables
+    
 cin>>a;
 cin>>b;
 cout<<"addition of a & b: "<<a+b<<endl;
@@ -23,6 +24,7 @@ cout<<"modulus  of a & b: "<<a%b<<endl;
 
 cout<<"division of a & b: "<<a/b<<endl;
     // operators lift shift operator and right sift opertor
+    // operators
 cout<<" right  shift operator "<a>>b<<endl;
 
 cout<<"Left shift operator""<<a<<b<<endl;
