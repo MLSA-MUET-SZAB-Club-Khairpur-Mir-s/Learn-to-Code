@@ -22,6 +22,7 @@ int main() { // main Class
     cout << year << " is a leap year.";
   }
   // all other years are not leap years
+  // years
   else {
     cout << year << " is not a leap year.";
   }
