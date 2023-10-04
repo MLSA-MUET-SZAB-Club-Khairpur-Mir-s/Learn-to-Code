@@ -5,7 +5,7 @@ String reverse(String s) {
     //taking reverse string
     sb.write(s[i]);
   }
-  return sb.toString();
+  return sb.toString(); // it will return the string
 }
 
 main() {
