@@ -50,7 +50,7 @@ int main(){
 				cout<<"Your account type is Current."<<endl;
 				cout<<"Your present amount in account is : "<<balance1<<endl;
 				cout<<"Your Account Number is : "<<accnum1<<endl;
-				cout<<"Press e for go back"<<endl;
+				cout<<"Press e/E for go back"<<endl;
 				cin>>back;
 				if(back=='e'){
 					goto label1;
