@@ -53,10 +53,11 @@ public class MainActivity extends AppCompatActivity {
                                 startActivity(new Intent(MainActivity.this,Logout.class));
                             }
                             else {
-                                Toast.makeText(MainActivity.this, "Athentication failed", Toast.LENGTH_SHORT).show();
+                                Toast.makeText(MainActivity.this, "Error", Toast.LENGTH_SHORT).show();
                             }
                         }
                     });
+                     // Toast message also can be shown for long time
                     Toast.makeText(MainActivity.this, "Welcome", Toast.LENGTH_SHORT).show();
                 }
             }
