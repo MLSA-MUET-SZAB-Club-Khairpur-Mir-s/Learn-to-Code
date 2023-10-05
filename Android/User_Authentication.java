@@ -1,3 +1,4 @@
+// try to connect with DBMS 
 package com.example.haidersapplication;
 
 import androidx.annotation.NonNull;
@@ -69,4 +70,4 @@ public class MainActivity extends AppCompatActivity {
         });
         }
     }
-// try to connect with DBMS 
+
