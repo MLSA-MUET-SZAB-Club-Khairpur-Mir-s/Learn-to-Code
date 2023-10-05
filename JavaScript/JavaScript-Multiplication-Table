@@ -9,6 +9,7 @@
     if(cols== "" || cols== null)
    		 cols = 10;
     createTable(rows, cols);
+// using function
     function createTable(rows, cols)
     {
       var j=1;
