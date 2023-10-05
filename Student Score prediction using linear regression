@@ -1,0 +1,35 @@
+#Training Algorithm
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=0) 
+regressor = LinearRegression()  
+regressor.fit(X_train, y_train) 
+print("Training complete.")
+
+
+# Plotting the regression line
+line = regressor.coef_*X+regressor.intercept_
+# Plotting for the test data
+plt.scatter(X, y)
+plt.plot(X, line);
+plt.show()
+
+
+
+print(X_test) # Testing data - In Hours
+y_pred = regressor.predict(X_test) # Predicting the scores
+
+# Comparing Actual vs Predicted
+df = pd.DataFrame({'Actual': y_test, 'Predicted': y_pred})  
+df 
+
+# Testing the model with our own data
+hours = 9.25
+test = np.array([hours])
+test = test.reshape(-1, 1)
+own_pred = regressor.predict(test)
+print("No of Hours = {}".format(hours))
+print("Predicted Score = {}".format(own_pred[0]))
+
+# Evaluating Model
+from sklearn import metrics  
+print('Mean Absolute Error:', 
+      metrics.mean_absolute_error(y_test, y_pred)) 
