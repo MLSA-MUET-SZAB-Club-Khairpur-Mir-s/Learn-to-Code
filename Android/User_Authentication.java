@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
                         @Override
                         public void onComplete(@NonNull Task<AuthResult> task) {
                             if(task.isComplete()){
-                                Toast.makeText(MainActivity.this, "Logged in successful", Toast.LENGTH_SHORT).show();
+                                Toast.makeText(MainActivity.this, "Logged in successful", Toast.LENGTH_LONG).show();
                                 startActivity(new Intent(MainActivity.this,Logout.class));
                             }
                             else {
