@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity {
                         }
                     });
                      // Toast message also can be shown for long time
-                    Toast.makeText(MainActivity.this, "Welcome", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(MainActivity.this, "Welcome", Toast.LENGTH_LONG).show();
                 }
             }
         });
