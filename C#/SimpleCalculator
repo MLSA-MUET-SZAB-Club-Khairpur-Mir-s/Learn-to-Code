@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-
+// this is simple calculator app
   char op;
   double first, second;
   printf("Enter an operator (+, -, *, /): ");
