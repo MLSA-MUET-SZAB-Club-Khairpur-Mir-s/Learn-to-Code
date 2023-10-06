@@ -1,7 +1,7 @@
 public class circle {
     private float circum; // this is the private method in which we Hidding the data
     private float area;
-
+//..
     public void setCircum(float r){ // setter is use to set the data
 
         circum=2*3.142f*r;
