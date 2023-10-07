@@ -3,6 +3,7 @@ using namespace std;
 
 int main() // main ftn
 {
+    //Here declearing two variables n1 nad n2
     int n1, n2, max;
 
     cout << "Enter two numbers: ";
