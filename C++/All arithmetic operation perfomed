@@ -3,7 +3,7 @@ using namespace std;
 int main(){
 
 // initializing variables
-    int a, b;
+    int a, b; // initialized a and b
     long double sub;
     long int mul;
     long long mod;
