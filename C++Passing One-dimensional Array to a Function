@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//ok
 // declare function to display marks
 // take a 1d array as parameter
 void display(int m[5]) {
