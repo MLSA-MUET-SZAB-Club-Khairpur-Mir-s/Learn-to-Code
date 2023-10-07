@@ -3,8 +3,7 @@ import java.util.stream.IntStream;
 /kku
 class ArrayTask{
   public static void main(String[] args){
-    
-    //this is an array task
+  
     
     int[] number = new int[10] ;
     
