@@ -8,7 +8,7 @@ import javax.swing.JFrame;
 import javax.swing.JMenu;  
 import javax.swing.JMenuBar;  
 import javax.swing.JMenuItem;  
-  
+  //ok
 public class JavaCheckBoxMenu{  
     public static void main(final String args[]){  
         JFrame frame = new JFrame("Jmenu Example");  
