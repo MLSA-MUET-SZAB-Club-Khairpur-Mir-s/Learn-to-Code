@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
                                 startActivity(new Intent(MainActivity.this,Logout.class));
                             }
                             else {
-                                Toast.makeText(MainActivity.this, "Error", Toast.LENGTH_SHORT).show();
+                                Toast.makeText(this, "Error", Toast.LENGTH_SHORT).show();
                             }
                         }
                     });
