@@ -8,7 +8,7 @@ void display(int arr[], int *size){
     }
     printf("\n");
 }
-
+//j
 int deletionBegin(int arr[], int *size){
     printf("Deletion from beginning\n");
     for(int i = 0; i < *size - 1; i++)
