@@ -1,5 +1,5 @@
 package com.example.diceproject
-
+//ok
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
