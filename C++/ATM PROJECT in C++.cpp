@@ -1,4 +1,4 @@
-#include<iostream>
+#include<iostream>//,
 using namespace std;
 struct person{
 	string accountdetails, withdraw, transfer, back, name, changedetails;
