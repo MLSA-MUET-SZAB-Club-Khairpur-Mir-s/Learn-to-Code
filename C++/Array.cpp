@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+//ok
 int main(){
 	// initialize variable
 	int a[2]={7,8};
