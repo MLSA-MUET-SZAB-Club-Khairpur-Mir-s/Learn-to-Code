@@ -4,7 +4,7 @@ using namespace std;
 int main(){
     float balance;
     int amount;
-    
+    //3
 
     cin>>amount>>balance;
 
