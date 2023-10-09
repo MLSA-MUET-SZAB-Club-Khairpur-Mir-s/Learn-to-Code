@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-//  Here is code To print Pyramid in C++
+//  Here is code how to  print Pyramid in C++
 
 #include <iostream>
 using namespace std;
