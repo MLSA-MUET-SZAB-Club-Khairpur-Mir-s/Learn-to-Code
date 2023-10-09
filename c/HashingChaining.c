@@ -61,9 +61,9 @@ int main()
      printf("Size: ");
      scanf("%d",&size);
      struct node *chain[size];
-     int i;
-    for(i = 0; i < size; i++){
-        chain[i] = NULL;
+     int j;
+    for(j = 0; j < size; j++){
+        chain[j] = NULL;
     }
 
     int n;
