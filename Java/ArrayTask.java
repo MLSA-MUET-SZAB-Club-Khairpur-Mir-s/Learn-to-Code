@@ -1,9 +1,9 @@
 import java.util.*;
 import java.util.stream.IntStream;
-/kku
+
 class ArrayTask{
   public static void main(String[] args){
-  
+  //Initialize variable
     
     int[] number = new int[10] ;
     
