@@ -2,14 +2,14 @@
 using namespace std;
 
 int main() {
-    int n, t1 = 0, t2 = 1, nextTerm = 0;
+    int m, t1 = 0, t2 = 1, nextTerm = 0;
 
     cout << "Enter the number of terms: ";
-    cin >> n;
+    cin >> m;
 
     cout << "Fibonacci Series: ";
 
-    for (int i = 1; i <= n; ++i) {
+    for (int i = 1; i <= m; ++i) {
         // Prints the first two terms.
         if(i == 1) {
             cout << t1 << ", ";
