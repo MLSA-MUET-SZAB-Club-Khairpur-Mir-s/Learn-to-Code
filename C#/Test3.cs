@@ -14,7 +14,7 @@ namespace IncludeHelp
             Console.WriteLine("\\");
 
             // printing between string "\"
-            Console.WriteLine("Hello\\World");
+            Console.WriteLine("Hello");
 
             // printing "\"n and "\"t
             Console.WriteLine("\\n\\t");
