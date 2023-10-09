@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-// main method
+// main method one
 int main(){
     float balance;
     int amount;
