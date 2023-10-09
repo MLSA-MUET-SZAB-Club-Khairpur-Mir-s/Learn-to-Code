@@ -1,11 +1,11 @@
 // Hello World! program
-namespace HelloWorld
+namespace task1
 {
-    class Hello {         
+    class task {         
         static void Main(string[] args)
         {
 
-            System.Console.WriteLine("Hello World!"); // Hello World Prints
+            System.Console.WriteLine("WelCome!"); // Hello World Prints
             System.Console.WriteLine("Hello World 2"); // Hello World Prints
 
         }
