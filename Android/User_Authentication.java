@@ -1,4 +1,4 @@
-// try to connect with DBMS server
+// try to connect with DBMS 
 package com.example.haidersapplication;
 
 import androidx.annotation.NonNull;
