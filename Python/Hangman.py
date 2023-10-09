@@ -14,6 +14,7 @@ def load_words():
     """
     print("Loading word list from file...")
     # inFile: file
+    #python
     inFile = open(WORDLIST_FILENAME, 'r')
     # line: string
     line = inFile.readline()
