@@ -8,5 +8,5 @@ int main(){
 	
 	for(int i=0;i<2;i++){
 		cout<<a[i]<<endl;
-	}
+//pk	}
 }
