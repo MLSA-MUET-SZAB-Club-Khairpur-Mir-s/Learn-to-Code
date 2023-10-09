@@ -14,17 +14,17 @@ public class Calculator {
     System.out.println("Choose an operator: +, -, *, or /");
     operator = sc.next().charAt(0);
 
-    System.out.println("Enter first number");
+    System.out.println("Enter number");
     number1 = sc.nextDouble();
 
-    System.out.println("Enter second number");
+    System.out.println("Enter number");
     number2 = sc.nextDouble();
 
 
     switch (operator) {
     case '+':
         result = number1 + number2;
-        System.out.printf("\n%d + %d = %d ",number1,number2,result);
+        System.out.printf("n%d + %d = %d ",number1,number2,result);
         break;
     case '-':
         result = number1 - number2;
