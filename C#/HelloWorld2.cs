@@ -7,6 +7,9 @@ class HelloWorld2 {
 		Console.Write("Hello World,");
 		Console.Write("How are you?");
 		//print new line
+		Console.WriteLine("Hello\x0AWorld");
+                Console.WriteLine();
+                Console.WriteLine();
 		Console.WriteLine();
 		//print text with new line after the message
 		Console.WriteLine("Hello World");
