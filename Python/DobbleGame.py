@@ -2,10 +2,10 @@ import string
 import random
 symbols=[]
 symbols=list(string.ascii_letters)
-card1=[0]*5
-card2=[0]*5
-pos1=random.randint(0,4)
-pos2=random.randint(0,4)
+card1=[0]*4
+card2=[0]*4
+pos1=random.randint(0,3)
+pos2=random.randint(0,3)
 #pos1 & pos2 are same symbol position from card1 & card2
 samesymbol=random.choice(symbols)
 symbols.remove(samesymbol)
@@ -20,7 +20,7 @@ else:
     card2[pos1]=random.choice(symbols)
     symbols.remove(card2[pos1])
 i=0
-while(i<5):
+while(i<4):
     if(i!=pos1 and i!=pos2):
         alphabet1=random.choice(symbols)
         symbols.remove(alphabet1)
