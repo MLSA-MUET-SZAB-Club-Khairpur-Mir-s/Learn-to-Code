@@ -6,8 +6,8 @@ struct person{
 }per1,per2,per3;
 
 int main(){
-	int num, accountpin, a, b, balance1= 40000, balance2= 50000, balance3= 60000;
-	int accnum, accnum1= 1234567890, accnum2= 1234567891, accnum3= 1234567892;
+	int num, accountpin, a, b, balance1= 50000, balance2= 60000, balance3= 70000;
+	int accnum, accnum1= 123456789, accnum2= 1234567891, accnum3= 1234567892;
 	char alpha, back;
 	string name, name1="Muzamil", name2="Haseeb", name3="Umar";
 	cout<<"\t     --------------------"<<endl;
@@ -47,8 +47,8 @@ int main(){
 		switch(alpha){
 			//for Account details.....
 			case'a':
-				cout<<"Your account type is Current."<<endl;
-				cout<<"Your present amount in account is : "<<balance1<<endl;
+				cout<<"Your account is Current."<<endl;
+				cout<<"Your present amount is : "<<balance1<<endl;
 				cout<<"Your Account Number is : "<<accnum1<<endl;
 				cout<<"Press e/E for go back"<<endl;
 				cin>>back;
