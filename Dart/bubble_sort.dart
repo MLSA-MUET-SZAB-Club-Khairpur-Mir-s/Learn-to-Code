@@ -4,7 +4,7 @@ void main() {
   print(sortedarray);
 }
 
-//Buble Sort in Dart
+//Buble Sort in Dart.
 bubbleSort(List<int> array) {
   int n = array.length;
   for (int i = 0; i < n - 1; i++) {
