@@ -11,12 +11,12 @@ namespace IncludeHelp
         static void Main(string[] args)
         {
             //using \n
-            Console.WriteLine("Hello\nWorld");
+            Console.WriteLine("Hello");
             //using \x0A
-            Console.WriteLine("Hello\x0AWorld");
+            Console.WriteLine("Hello\nAWorld");
             Console.WriteLine();
 
-            Console.WriteLine("end of the program");
+            Console.WriteLine("end program");
 
             //hit ENTER to exit the program
             Console.ReadLine();
