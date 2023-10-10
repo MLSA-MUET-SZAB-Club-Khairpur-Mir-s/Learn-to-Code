@@ -10,7 +10,7 @@ int main(){
     int sum ;
     float division;
     
-    // inputing variables
+    // Inputing variables
     
 cin>>a;
 cin>>b;
