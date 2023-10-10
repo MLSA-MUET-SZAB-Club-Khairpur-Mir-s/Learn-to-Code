@@ -49,6 +49,10 @@ The language is easy to learn because Java code is straightforward to write, org
 
 So, if you're a college student learning to code for the first time, Java can be a good language to start with. If you're a professional who wants to churn out simple, elegant code and deploy it quickly, Java is not the ideal choice.
 
+
+# What is class in Java?
+A class in Java is a logical template to create objects that share common properties and methods. Hence, all objects in a given class will have the same methods or properties. For example: in the real world, a specific cat is an object of the “cats” class.
+
 Conclusion
 It's very unlikely that Java will disappear anytime soon. It remains far too deeply embedded into the programming culture and codebases to be nearing its demise.
 
