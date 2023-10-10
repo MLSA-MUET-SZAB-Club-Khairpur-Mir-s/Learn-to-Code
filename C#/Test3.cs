@@ -17,6 +17,8 @@ namespace IncludeHelp
             Console.WriteLine("Hello");
 
             // printing "\"n and "\"t
+            Console.WriteLine("Hello\x0AWorld");
+            Console.WriteLine();
             Console.WriteLine("\\n\\t");
 
             //hit ENTER to exit the program
