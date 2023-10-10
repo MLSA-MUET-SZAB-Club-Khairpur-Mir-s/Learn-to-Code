@@ -11,4 +11,4 @@ int main(){
 		cout<<d[c]<<endl;
 	}
 }
-//okay
+//Task completed
