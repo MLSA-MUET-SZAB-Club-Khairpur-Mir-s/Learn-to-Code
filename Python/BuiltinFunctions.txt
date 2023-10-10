@@ -1,3 +1,4 @@
+//python built in functions
 print( ) function
 type( ) function
 input( ) function
