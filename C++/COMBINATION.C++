@@ -6,9 +6,9 @@ int main()
 	cout << "\t\t~~~~~~~~~~~" <<endl;
 	for (int b=0; b<=7; b++)
 	{
-		for (int j=0; j<=7; j++)
+		for (int k=0; k<=7; k++)
 		{
-			cout <<b <<j <<"\t";
+			cout <<b <<k <<"\t";
 		}
 			cout <<endl;
 	}
