@@ -21,6 +21,10 @@ File, socket, HTTP, and other I/O support for non-web applications (dart:io)
 Support for asynchronous programming, with classes such as Future and Stream (dart:async)
 Lists that efficiently handle fixed-sized data (for example, unsigned 8-byte integers) and SIMD numeric types (dart:typed_data)
 Additionally, third-party publishers and the broader community publish thousands of packages, with support for features like these:
+# benefits of dart
+Learning Dart offers several advantages. It enables you to develop cross-platform applications using Flutter, opening up mobile, web, and desktop development opportunities. Dart's focus on performance and efficiency helps you create fast and responsive applications.
+
+
 XM
 # What is Dart used for?
 Image result for dart
