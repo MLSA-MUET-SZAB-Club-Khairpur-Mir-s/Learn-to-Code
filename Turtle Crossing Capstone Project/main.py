@@ -34,6 +34,7 @@ while game_is_on:
     #detect successfull crossing
     if player.is_finished():
        player.go_to_start()
+        player.go_to_end()
        car_manager.level_up()
        scoreboard.increase_level()
       
