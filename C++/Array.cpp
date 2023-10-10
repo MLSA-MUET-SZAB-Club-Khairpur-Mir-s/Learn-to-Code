@@ -7,8 +7,8 @@ int main(){
 	a[1]=3;
 	//o
 	
-	for(int c=0;c<2;c++){
-		cout<<a[c]<<endl;
+	for(int d=0;d<2;d++){
+		cout<<a[d]<<endl;
 //pk	}
 }
 //okay
