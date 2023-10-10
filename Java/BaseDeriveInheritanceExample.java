@@ -2,7 +2,7 @@
 class Base{
     String name;
     Base(){
-        System.out.println("I'm non parameterized constructor of Base Class");
+        System.out.println("I'm non parameterized constructor of Base Class2");
     }
     Base(String name){
         System.out.println("I'm parameterized constructor of Base Class");
@@ -10,7 +10,7 @@ class Base{
 }
 class Derived extends Base{
     Derived(){
-        System.out.println("I'm non parameterized constructor of Derived Class");
+        System.out.println("I'm non parameterized constructor of Derived Class1");
     }
     Derived(String name){
         super(name);
