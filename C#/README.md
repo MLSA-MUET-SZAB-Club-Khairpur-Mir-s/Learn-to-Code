@@ -43,6 +43,8 @@ websites
 Mobile applications
 Desktop applications
 Web applications
+# What are the benefits of C++?
+The main advantages of C++ are that it is a highly efficient language, has excellent performance, and boasts great memory management. C++ also supports object-oriented programming principles, making development more manageable and organized.
 Web services
 Web sites
 Games
