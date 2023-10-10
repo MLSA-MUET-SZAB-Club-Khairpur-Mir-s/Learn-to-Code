@@ -1,4 +1,4 @@
-# C# 
+# C# or C sharp
 # Basic deep learning tutorials importants points of C#
 C# is a modern, general-purpose, object-oriented programming language developed by Microsoft and approved by European Computer Manufacturers Association (ECMA) and International Standards Organization (ISO).
 C# was developed by Anders Hejlsberg and his team during the development of .Net Framework.
@@ -24,7 +24,7 @@ C# has roots from the C family, and the language is close to other popular langu
 The first version was released in year 2002. The latest version, C# 10, was released in November 2021.
 
 C# is used for:
-
+websites
 Mobile applications
 Desktop applications
 Web applications
