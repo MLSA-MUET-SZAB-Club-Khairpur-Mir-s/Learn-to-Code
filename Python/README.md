@@ -107,6 +107,9 @@ Database programming
 Python Is Used Across Various Forms of Programming
 Python's user base is growing rapidly as it is used in all forms of programming. Some of these programming forms are quick automation, cross-platform shell scripting, simple web development, Artificial Intelligence, Machine Learning, data analysis and visualization.
 
+# Is it difficult to learn Python?
+No, Python isn't hard to learn for most people. In fact, Python is considered one of the easiest programming languages to learn. While anyone can learn Python programming — even if you've never written a line of Python code before — you should expect that it will take time, and you should expect moments of frustration.
+
 # Python Is Used In Specialists Areas
 Specialists who are working in different areas of disciplines such as Finance, Insurance use Python for improving performance with the help of automation. Automating all the boring and repetitive activities such as viewing, copying, renaming, uploading files to a server, and downloading websites or parsing data can be done with the help of Python.  
 
