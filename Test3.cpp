@@ -1,4 +1,5 @@
 // Sum program
+// Addition of two numbers
 #include<iostream>
 
 using namespace std;
