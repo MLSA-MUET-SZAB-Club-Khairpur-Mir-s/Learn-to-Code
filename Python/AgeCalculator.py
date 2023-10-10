@@ -2,8 +2,8 @@ def AgeCalculator(y, m ,d):
   import datetime #importing the date time module
   #
   today = datetime.datetime.now().date() #taking today’s date by using the datetime.now() method of the datetime module
-  dob = datetime.date(y, m, d)
+  dob = datetime.date(d, m, y)
   age = int((today-dob).days / 365)
   print("age = "+age)
-AgeCalculator(2001, 10, 1)
+AgeCalculator(1, 10, 2001)
 //theek aa bas
