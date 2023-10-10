@@ -37,6 +37,9 @@ It is an object-oriented programming language created by Microsoft that runs on 
 C# has roots from the C family, and the language is close to other popular languages like C++ and Java.
 
 The first version was released in year 2002. The latest version, C# 10, was released in November 2021.
+Is C++ useful in a career?
+Top 7 Practical Applications of C++ and the Way to Build a ...
+C++ has an immense job market extending over various industries like Finance, Application Development, Game Development, Virtual Reality, etc
 
 C# is used for:
 websites
