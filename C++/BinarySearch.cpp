@@ -4,7 +4,7 @@ using namespace std;
 
 // A Recursive Binary Search function. It returns
 // location of x in given array arr[l..r] is present,
-// otherwise -1
+// otherwise -1 working whith me
 int binarySearch(int arr[], int a, int r, int x)
 {
 	if (r >= l) {
