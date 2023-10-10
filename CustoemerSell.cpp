@@ -10,7 +10,7 @@ struct daraz_customer{
     string item;
     int quantity;
     float price;
-    float discount;
+    float dis;
     string time;
 };
 int main(){
