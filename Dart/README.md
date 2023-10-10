@@ -25,3 +25,7 @@ XM
 # What is Dart used for?
 Image result for dart
 Dart is a client-optimized language for developing fast apps on any platform. Its goal is to offer the most productive programming language for multi-platform development, paired with a flexible execution runtime platform for app frameworks.
+
+
+# Who uses Dart?
+The popular Flutter toolkit relies on the Dart language, so developers writing Flutter apps—for Android, iOS, or other targets—use Dart. To find a list of Flutter apps, visit the Flutter showcase. Google engineers use Dart to create many apps, including some that are essential to Google's business.
