@@ -5,6 +5,8 @@ Multithreaded, Architecture Neutral, Object-Oriented, Interpreted, and Dynamic".
 James Gosling and his team members started the project in the early '90s.
 
 Following are given significant points that describe the history of Java.
+# Why is Java important?
+Java is used to build applications and platforms for a number of devices, including computers, laptops, gaming consoles, Blu-ray players, car navigation systems, medical monitoring devices, parking meters, lottery terminals and smartphones.
 1) James Gosling, Mike Sheridan, and Patrick Naughton initiated the Java language project in June 1991. The small team of sun engineers called Green Team.
 2) Initially it was designed for small, embedded systems in electronic appliances like set-top boxes.
 3) Firstly, it was called "Greentalk" by James Gosling, and the file extension was .gt.
