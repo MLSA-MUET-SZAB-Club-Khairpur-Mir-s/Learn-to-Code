@@ -4,11 +4,11 @@ int main()
 {
 	cout << "\t\tCOMBINATION" <<endl;
 	cout << "\t\t~~~~~~~~~~~" <<endl;
-	for (int i=0; i<=7; i++)
+	for (int b=0; b<=7; b++)
 	{
 		for (int j=0; j<=7; j++)
 		{
-			cout <<i <<j <<"\t";
+			cout <<b <<j <<"\t";
 		}
 			cout <<endl;
 	}
