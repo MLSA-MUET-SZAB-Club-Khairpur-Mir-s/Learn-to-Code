@@ -55,7 +55,10 @@ i love this programming language
 What is Python?
 Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
 
-It is used for:
+# Who mostly uses Python?
+Python is used by Intel, IBM, NASA, Pixar, Netflix, Facebook, JP Morgan Chase, Spotify, and a number of other massive companies. It's one of the four main languages at Google, while Google's YouTube is largely written in Python. Same with Reddit, Pinterest, and Instagram.
+
+# It is used for:
 
 web development (server-side),
 software development,
