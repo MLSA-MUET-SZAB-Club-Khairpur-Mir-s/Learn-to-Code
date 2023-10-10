@@ -10,8 +10,8 @@ public class ActionListenerOnOffButton {
         Label lb = new Label();
         Button btn = new Button("Click");
         f.setSize(300,300);
-        btn.setBounds(100,100,40,15);
-        lb.setBounds(100,50,50,50);
+        btn.setBounds(100,70,40,15);
+        lb.setBounds(40,40,40,40);
 
         //adding action listener.
         btn.addActionListener(new java.awt.event.ActionListener() {
@@ -20,9 +20,9 @@ public class ActionListenerOnOffButton {
                                   public void actionPerformed(ActionEvent e) {
                                       i++;
                                       if (i % 2 == 0) {
-                                          lb.setText("On");
+                                          lb.setText("true");
                                       } else {
-                                          lb.setText("Off");
+                                          lb.setText("false");
                                       }
                                   }
                               });
