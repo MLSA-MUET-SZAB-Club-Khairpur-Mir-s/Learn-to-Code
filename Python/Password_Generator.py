@@ -1,7 +1,7 @@
 import string 
 import random
 
-if __name__ == "__main__":
+if __name__ == "___main___":
     LOWERCASE_LETTER = string.ascii_lowercase
     UPPERCASE_LETTER = string.ascii_uppercase
     DIGITS = string.digits
@@ -14,5 +14,5 @@ if __name__ == "__main__":
     arr.extend(list(DIGITS))
     arr.extend(list(SPECIAL_CHAR))
     
-    print("The generated password is: ")
+    print("The generated : ")
     print("".join(random.sample(arr,password_length)))
