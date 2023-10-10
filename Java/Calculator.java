@@ -38,6 +38,10 @@ public class Calculator {
         result = number1 / number2;
         System.out.printf("\n%d + %d = %d ",number1,number2,result);
         break;
+           case '%':
+        result = number1 % number2;
+        System.out.printf("\n%d + %d = %d ",number1,number2,result);
+        break;
         case '!':
         //function to find the power of a number  
         static int power(int base, int exponent)  
