@@ -4,6 +4,10 @@
 Dart is a descendant of the ALGOL language family, alongside C, Java, C#, JavaScript, and others. The method cascade syntax, which provides a syntactic shortcut for invoking several methods one after another on the same object, is adopted from Smalltalk.
 Dart is an open-source general-purpose programming language. It is originally developed by Google and later approved as a standard by ECMA. Dart is a new programming language meant for the server as well as the browser. Introduced by Google, the Dart SDK ships with its compiler –- the Dart VM. The SDK also includes a utility -dart2js, a transpiler that generates JavaScript equivalent of a Dart Script. This tutorial provides a basic level understanding of the Dart programming language.
 
+# Is Dart an OOP language?
+Class hierarchy in Dart. Object Oriented Programming is a ...
+Dart is an object oriented programming language, which means it allows us to create objects that contain data and functions. Dart supports so many OOP features, but in this article, we are going to talk about Hierarchy, Abstract class, Interfaces, and Mixins.
+
 Dart is the client-optimized language for developing fast apps on any platform. Its goal is to offer the most productive programming language for multi-platform development, Paired with a flexible execution runtime platform for app frameworks.
 
 Dart also forms the foundation of Flutter. Dart provides the language and runtimes that power Flutter apps, but Dart also supports many core developer tasks like formatting, analyzing, and testing code.
