@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
 	// initialize variable
-	int a[2]={7,8};
+	int d[2]={7,8};
 	d[0]=1;
 	d[1]=3;
 
