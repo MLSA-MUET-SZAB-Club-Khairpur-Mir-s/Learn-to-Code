@@ -40,6 +40,10 @@ The first version was released in year 2002. The latest version, C# 10, was rele
 
 C# is used for:
 websites
+
+#Is it difficult to learn C#?
+Is C# hard to learn? The learning curve for C# is relatively low when compared to more complex languages like Java, although it's not quite as simple to learn as Python, the ultimate programming language for those who are brand new to the field.
+
 Mobile applications
 Desktop applications
 Web applications
