@@ -4,21 +4,21 @@
 struct queue
 {
     int size;
-    int f;
-    int r;
+    int g;
+    int e;
     int* arr;
 };
  
  
 int isEmpty(struct queue *q){
-    if(q->r==q->f){
+    if(q->r==q->g){
         return 1;
     }
     return 0;
 }
  
 int isFull(struct queue *q){
-    if((q->r+1)%q->size== q->f){
+    if((q->r+1)%q->size== q->g){
         return 1;
     }
     return 0;
@@ -31,8 +31,8 @@ void enqueue(struct queue *q, int val){
         printf("This Queue is full\n");
     }
     else{
-        q->r=(q->r+1)%q->size;
-        q->arr[q->r] = val;
+        q->e=(q->e+1)%q->size;
+        q->arr[q->e] = val;
         
         printf("\nEnqued element: %d", val);
     }
@@ -46,7 +46,7 @@ int dequeue(struct queue *q){
         printf("\nThis Queue is empty");
     }
     else{
-        q->f=((q->f+1)%q->size);
+        q->g=((q->g+1)%q->size);
         a = q->arr[q->f]; 
         
         
@@ -55,13 +55,13 @@ int dequeue(struct queue *q){
     return a;
 }
 void display(struct queue *q){
-	int i=((q->f+1)%q->size);;
+	int i=((q->g+1)%q->size);;
 	printf("Elements:  ");
-	while(i!=q->r){
+	while(i!=q->e){
 		printf(" %d ",q->arr[i]);
 		i=(i+1)%q->size;
 	}
-	printf(" %d ",q->arr[q->r]);
+	printf(" %d ",q->arr[q->e]);
 }
  
 int main(){
@@ -71,7 +71,7 @@ int main(){
     int size;
     scanf("%d",&size);
     q.size=size+1;
-    q.f = q.r = 0;
+    q.g = q.e = 0;
     int i=q.size-1,val;
     q.arr = (int*) malloc(q.size*sizeof(int));
      int ch;
