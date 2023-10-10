@@ -1,4 +1,4 @@
-// atm project
+// atm project prototypt is being builded
 #include<iostream>
 using namespace std;
 // main method one
