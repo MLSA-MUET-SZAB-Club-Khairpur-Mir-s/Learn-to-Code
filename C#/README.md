@@ -34,3 +34,19 @@ Games
 VR
 Database applications
 And much, much more
+
+C# (pronounced "C sharp") is a modern, object-oriented programming language developed by Microsoft. It was introduced in the early 2000s as a part of the .NET framework. C# is designed for building Windows applications, web applications, and services. It is a versatile language that can be used for various types of software development.
+
+Key features of C# include:
+
+Object-Oriented: C# follows the principles of object-oriented programming, allowing developers to create reusable and modular code.
+
+Type-Safe: C# is a statically-typed language, meaning that variable types are known at compile-time, reducing the chance of runtime errors.
+
+Garbage Collection: Memory management in C# is handled by a garbage collector, which automatically reclaims memory occupied by objects that are no longer in use.
+
+Platform Independence: C# applications can run on the Microsoft .NET framework, making them platform-independent to some extent. With technologies like .NET Core and .NET 5, C# applications can run on various platforms, including Windows, Linux, and macOS.
+
+Integration with .NET Framework: C# is closely integrated with the .NET framework, providing access to a rich set of libraries and tools for building different types of applications.
+
+
