@@ -12,6 +12,9 @@ Dart offers sound null safety, meaning that values can’t be null unless you sa
 
 The following code sample showcases several Dart language features, including libraries, async calls, nullable and non-nullable types, arrow syntax, generators, streams, and getters. To find examples of using additional Dart features, see the samples page. To learn more about the language, take the Dart language tour.
 
+# Is Dart a Flutter language?
+Flutter uses Dart as its programming language. What is Dart? Dart is an open-source, client-side programming language created by Google. It is designed to be easy to learn, stable, and creates high-performance applications.
+
 Dart has a rich set of core libraries, providing essentials for many everyday programming tasks:
 Built-in types, collections, and other core functionality for every Dart program (dart:core)
 Richer collection types such as queues, linked lists, hashmaps, and binary trees (dart:collection)
