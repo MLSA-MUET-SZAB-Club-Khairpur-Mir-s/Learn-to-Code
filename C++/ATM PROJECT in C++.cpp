@@ -6,10 +6,10 @@ struct person{
 }per1,per2,per3;
 
 int main(){
-	int num, accountpin, a, b, balance1= 80000, balance2= 30000, balance3= 50000;
+	int num, accountpin, a, b, balance1= 90000, balance2= 40000, balance3= 60000;
 	int accnum, accnum1= 1234567890, accnum2= 1234567891, accnum3= 1234567892;
 	char alpha, back;
-	string name, name1="Muzamil", name2="Haseeb", name3="Umar";
+	string name, name1="Rizwan", name2="Haseeb", name3="Umar";
 	cout<<"\t     --------------------"<<endl;
 	cout<<"\t\tBanking System"<<endl;
 	cout<<"\t     --------------------"<<endl;
