@@ -6,6 +6,9 @@ C# is designed for Common Language Infrastructure (CLI), which consists of the e
 The following reasons make C# a widely used professional language −
 Although C# constructs closely follow traditional high-level languages, C and C++ and being an object-oriented programming language. It has strong resemblance with Java, it has numerous strong programming features that make it endearing to a number of programmers worldwide.
 
+# What is entrypoint in C#?
+C# applications have an entry point called Main Method. It is the first method which gets invoked whenever an application started and it is present in every C# executable file. The application may be Console Application or Windows Application.
+
 Asynchronous Programming: C# supports asynchronous programming, enabling the creation of responsive and scalable applications.
 
 Ease of Learning: Its syntax is intuitive and similar to other C-style languages, making it relatively easy for developers to learn and adopt.
