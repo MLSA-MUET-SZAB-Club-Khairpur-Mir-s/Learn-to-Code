@@ -1,5 +1,5 @@
-//love dart
+//love dart language.
 void main(){
    // this is just for practice 
-   print("Hello World hello");
+   print("Hello MUET SZAB");
 }
