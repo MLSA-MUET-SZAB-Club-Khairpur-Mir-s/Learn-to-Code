@@ -4,13 +4,13 @@ using namespace std;
 int main() {
   int n;
 
-  cout << "Enter an integer: ";
+  cout << "Enter a Number: ";
   cin >> n;
 
   if ( n % 2 == 0)
-    cout << n << " is even.";
+    cout << n << "even.";
   else
-    cout << n << " is odd.";
+    cout << n << "odd.";
 
   return 0;
 }
