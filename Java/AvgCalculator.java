@@ -9,16 +9,16 @@ public class AvgCalculator {
     }
 }
 class AvergeCalculator{
-   private int marksInEnglish;
+   private int marksInEnglis;
    private int marksInUrdu;
    private int markInProgramming;
-    AverageCalculator(int marksInEnglish,int marksInUrdu,int markInProgramming){
-        this.marksInEnglish=marksInEnglish;
+    AverageCalculator(int marksInEnglis,int marksInUrdu,int markInProgramming){
+        this.marksInEnglish=marksInEnglis;
         this.marksInUrdu=marksInUrdu;
         this.markInProgramming=markInProgramming;
     }
     public boolean isExpert(){
         double average=(marksInEnglish+marksInUrdu+markInProgramming);
-        return (average>=40 && marksInEnglish>=35 && marksInUrdu>=35 && markInProgramming>=35);
+        return (average>=40 && marksInEnglis>=35 && marksInUrdu>=35 && markInProgramming>=35);
     }
 }
