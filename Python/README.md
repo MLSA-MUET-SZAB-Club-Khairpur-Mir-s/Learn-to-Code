@@ -48,6 +48,10 @@ Here’s a closer look at so
 
 It can be easily integrated with C, C++, COM, ActiveX, CORBA, and Java.
 
+
+# What is Python in simple words?
+Python is an interpreted, object-oriented, high-level programming language with dynamic semantics developed by Guido van Rossum. It was originally released in 1991. Designed to be easy as well as fun, the name "Python" is a nod to the British comedy group Monty Python.
+
 # Why is it called ‘Python’?
 
 While many people assume the name Python Programming comes from something related to the Python snake, it actually comes from the TV comedy series ‘Monty Python’s Flying Circus.’ This series broadcast on the BBC channel in the United Kingdom in the 1970s and was a favorite of Guido Van Rossum’s. Because it was short, cryptic, and included the name of his favorite TV comedy show, he chose the name ‘Python.’
