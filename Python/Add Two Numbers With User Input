@@ -1,4 +1,4 @@
-# Store input numbers
+# Store input numbers randomly
 num1 = input('Enter first number: ')
 num2 = input('Enter second number: ')
 
