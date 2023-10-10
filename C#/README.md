@@ -14,6 +14,10 @@ Simple Multithreading
 LINQ and Lambda Expressions
 C is a general-purpose programming language created by Dennis Ritchie at the Bell Laboratories in 1972. It is a very popular language, despite being old. C is strongly associated with UNIX, as it was developed to write the UNIX operating system.
 
+Object-Oriented: C# is an object-oriented programming (OOP) language, which means it supports concepts like classes, objects, inheritance, encapsulation, and polymorphism.
+
+Type-Safe: C# is a statically typed language, which means variable types are checked at compile-time, reducing runtime errors.
+
 C# (C-Sharp) is a programming language developed by Microsoft that runs on the .NET Framework.
 
 C# is used to develop web apps, desktop apps, mobile apps, games and much more.
