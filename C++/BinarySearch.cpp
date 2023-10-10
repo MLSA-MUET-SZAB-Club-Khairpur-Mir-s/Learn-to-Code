@@ -5,10 +5,10 @@ using namespace std;
 // A recursive binary search function. It returns
 // location of x in given array arr[l..r] is present,
 // otherwise -1
-int binarySearch(int arr[], int l, int r, int x)
+int binarySearch(int arr[], int a, int r, int x)
 {
 	if (r >= l) {
-		int mid = l + (r - l) / 2;
+		int mid = a + (r - l) / 2;
 
 		// If the element is present at the middle
 		// itself
@@ -18,7 +18,7 @@ int binarySearch(int arr[], int l, int r, int x)
 		// If element is smaller than mid, then
 		// it can only be present in left subarray
 		if (arr[mid] > x)
-			return binarySearch(arr, l, mid - 1, x);
+			return binarySearch(arr, a, mid - 1, x);
 
 		// Else the element can only be present
 		// in right subarray
