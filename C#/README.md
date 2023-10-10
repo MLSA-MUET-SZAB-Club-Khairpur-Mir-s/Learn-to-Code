@@ -10,6 +10,9 @@ Asynchronous Programming: C# supports asynchronous programming, enabling the cre
 
 Ease of Learning: Its syntax is intuitive and similar to other C-style languages, making it relatively easy for developers to learn and adopt.
 
+# What is the purpose of entrypoint?
+ENTRYPOINT is one of the many instructions you can write in a dockerfile. The ENTRYPOINT instruction is used to configure the executables that will always run after the container is initiated. For example, you can mention a script to run as soon as the container is started.
+
 C# has gained popularity in software development due to its versatility, developer-friendly syntax, and strong support from Microsoft, making it a valuable tool for building a wide variety of applications.
 
 Cross-platform Development: With .NET Core and .NET 5+, C# allows cross-platform development, expanding its reach beyond Windows to Linux and macOS.
