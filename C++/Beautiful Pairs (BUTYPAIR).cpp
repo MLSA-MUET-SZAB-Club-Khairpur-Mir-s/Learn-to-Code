@@ -17,7 +17,7 @@ void solve()
     ll int n,d=0,p;
     cin>>n;
     map<ll int,ll int> mp;
-    for(ll int i=0;i<n;i++)
+    for(ll int j=0;j<n;j++)
     {
         cin>>p;
         mp[p]++;
@@ -39,16 +39,3 @@ int main()
     }
     return 0;
 }
-
-// Sample input/output
-
-// Sample Input 1 
-// 2
-// 3
-// 4 2 4
-// 6
-// 2 8 6 2 1 5
-
-// Sample Output 1 
-// 4
-// 28
