@@ -37,6 +37,7 @@ It is an object-oriented programming language created by Microsoft that runs on 
 C# has roots from the C family, and the language is close to other popular languages like C++ and Java.
 
 The first version was released in year 2002. The latest version, C# 10, was released in November 2021.
+The main advantages of C++ are that it is a highly efficient language, has excellent performance, and boasts great memory management. C++ also supports object-oriented programming principles, making development more manageable and organized
 
 C# is used for:
 websites
