@@ -69,3 +69,6 @@ Java is an object oriented language which gives a clear structure to programs an
 As Java is close to C++ and C#, it makes it easy for programmers to switch to Java or vice versa
 # What is Java used for?
 One of the most widely used programming languages, Java is used as the server-side language for most back-end development projects, including those involving big data and Android development. Java is also commonly used for desktop computing, other mobile computing, games, and numerical computing.
+
+# What is the Java introduction?
+Java is a class-based, object-oriented programming language and is designed to have as few implementation dependencies as possible. A general-purpose programming language made for developers to write once run anywhere that is compiled Java code can run on all platforms that support Java.
