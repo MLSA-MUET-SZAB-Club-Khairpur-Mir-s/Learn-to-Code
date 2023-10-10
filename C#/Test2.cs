@@ -15,6 +15,10 @@ namespace IncludeHelp
             //using \x0A
             Console.WriteLine("Hello\nAWorld");
             Console.WriteLine();
+            Console.WriteLine("Hello\x0AWorld");
+            Console.WriteLine();
+            Console.WriteLine("Hello\x0AWorld");
+            Console.WriteLine();
 
             Console.WriteLine("end program");
 
