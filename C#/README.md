@@ -44,7 +44,9 @@ And much, much more
 
 
 
+Performance: It offers excellent performance through just-in-time compilation and optimization during execution.
 
+Safety and Security: C# provides memory management and type safety features, reducing vulnerabilities and enhancing application security.
 
 
 
