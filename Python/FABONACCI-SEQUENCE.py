@@ -6,10 +6,10 @@ count = 0
 
 # check if the number of terms is valid
 if nterms <= 0:
-   print("Please enter a positive integer")
+   print("enter a positive integer")
 # if there is only one term, return n1
 elif nterms == 1:
-   print("Fibonacci sequence upto",nterms,":")
+   print("Fibonacci sequence",nterms,":")
    print(n1)
 # generate fibonacci sequence
 else:
