@@ -2,7 +2,7 @@ import java.util.*;
 public class calcindex {
 public static void main(String[] args) {
     
-    int[] arr = {1,2,3,4,5,6,7,8,9,10};
+    int[] arr = {1,2,3,4,5,6,7,8,9,10,11};
     int ind=0;
     int exist = 0;
     Scanner sc = new Scanner(System.in);
