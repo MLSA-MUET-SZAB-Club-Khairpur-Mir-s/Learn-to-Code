@@ -5,6 +5,7 @@ struct person{
 	int pin;
 }per1,per2,per3;
 
+// this is main function of Atm or starter of AMT
 int main(){
 	int num, accountpin, a, b, balance1= 90000, balance2= 40000, balance3= 60000;
 	int accnum, accnum1= 1234567890, accnum2= 1234567891, accnum3= 1234567892;
