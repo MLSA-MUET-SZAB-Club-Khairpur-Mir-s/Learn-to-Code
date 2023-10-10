@@ -1,4 +1,4 @@
-// Hello World! program
+// Hello World! program is written by we sw students
 namespace HelloWorld
 {
     class Hello {         
