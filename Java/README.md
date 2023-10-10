@@ -67,5 +67,10 @@ It is secure, fast and powerful
 It has a huge community support (tens of millions of developers)
 Java is an object oriented language which gives a clear structure to programs and allows code to be reused, lowering development costs
 As Java is close to C++ and C#, it makes it easy for programmers to switch to Java or vice versa
+
+# What are the stages of Java?
+Typical Java Development Environment - Java™ How to Program ...
+Java programs normally go through five phases—edit, compile, load, verify and execute. We discuss these phases in the context of the JDK 6.0 from Sun Microsystems, Inc., You can download the most up-to-date JDK and its documentation from java.sun.com/javase/6/download.jsp.
+
 # What is Java used for?
 One of the most widely used programming languages, Java is used as the server-side language for most back-end development projects, including those involving big data and Android development. Java is also commonly used for desktop computing, other mobile computing, games, and numerical computing.
