@@ -15,7 +15,8 @@ namespace IncludeHelp
             Console.WriteLine("This is line1"); 
             Console.WriteLine("This is line2");
             Console.Write("This is line3");
-            Console.Write("This is line4");            
+            Console.Write("This is line4");
+            Console.Write("This is line5");            
             
             //hit ENTER to exit the program
             Console.ReadLine();
