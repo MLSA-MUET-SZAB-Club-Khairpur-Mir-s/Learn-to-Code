@@ -55,4 +55,6 @@ Integration with .NET: It seamlessly integrates with the .NET framework, providi
 
 Strong Typing: C# enforces strong typing, enhancing code reliability and reducing runtime errors.
 
-
+Where is C++ mostly used?
+What are the Uses of C++ & Its Applications | Simplilearn
+C++ is a fast and strongly-typed programming language which makes it an ideal choice for developing operating systems. Mac OS X has large amounts written in C++. Most of the software from Microsoft like Windows, Microsoft Office, IDE Visual Studio, and Internet Explorer are also written in C++.
