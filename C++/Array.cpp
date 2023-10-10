@@ -11,4 +11,4 @@ int main(){
 		cout<<a[c]<<endl;
 //pk	}
 }
-//ok
+//okay
