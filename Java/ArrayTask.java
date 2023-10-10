@@ -7,8 +7,8 @@ class ArrayTask{
     int[] number = new int[10] ;
     
     Scanner sc= new Scanner(System.in);
-    for(int i =0; i<10; i++){
-      number[i]= i;
+    for(int j =0; j<10; j++){
+      number[j]= j;
     }
     System.out.print(" Enter the number :");
     int check = sc.nextInt();
