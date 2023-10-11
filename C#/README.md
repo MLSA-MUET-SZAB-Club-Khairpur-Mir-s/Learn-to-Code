@@ -35,6 +35,9 @@ C# is used to develop web apps, desktop apps, mobile apps, games and much more.
 What is C#?
 C# is pronounced "C-Sharp".
 
+Which is better Java or C#?
+Why is C# Faster than Java? C# is generally considered faster than Java, although the difference is insignificant. Both languages are compiled, but C# uses a just-in-time compiler while Java uses an ahead-of-time compiler. This means that C# code is typically executed more quickly.
+
 It is an object-oriented programming language created by Microsoft that runs on the .NET Framework.
 
 C# has roots from the C family, and the language is close to other popular languages like C++ and Java.
