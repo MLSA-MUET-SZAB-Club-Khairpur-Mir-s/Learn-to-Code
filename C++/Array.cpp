@@ -2,13 +2,13 @@
 using namespace std;
 int main(){
 	// initialize variable
-	int d[2]={7,8};
-	d[0]=1;
-	d[1]=3;
+	int f[2]={7,8};
+	f[0]=1;
+	f[1]=3;
 
 	
 	for(int c=0;c<2;c++){
-		cout<<d[c]<<endl;
+		cout<<f[c]<<endl;
 	}
 }
 //Task completed
