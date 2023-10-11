@@ -26,6 +26,8 @@ Community and Support: C# has a large and active community, offering support, tu
 Boolean Conditions
 Conditional Compilation
 Simple Multithreading
+# What is the use of C++ in future?
+t to create applications for virtual reality (VR) via the Unreal Engine, the Internet of Things (IoT), and cryptocurrency applications.
 LINQ and Lambda Expressions
 C is a general-purpose programming language created by Dennis Ritchie at the Bell Laboratories in 1972. It is a very popular language, despite being old. C is strongly associated with UNIX, as it was developed to write the UNIX operating system.
 
