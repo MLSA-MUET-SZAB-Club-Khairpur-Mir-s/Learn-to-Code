@@ -59,3 +59,8 @@ Integration with .NET: It seamlessly integrates with the .NET framework, providi
 Strong Typing: C# enforces strong typing, enhancing code reliability and reducing runtime errors.
 
 
+
+
+
+What is .NET and C sharp?
+C# is a programming language and . NET is the framework and runtime that C# programs are built with and run on. C# has a specific syntax. It has rules around keywords, where semicolons go, and how to declare statements. . NET is a framework library that contains thousands of classes for us to use right out of the box
