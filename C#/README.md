@@ -76,6 +76,9 @@ Integration with .NET: It seamlessly integrates with the .NET framework, providi
 
 Strong Typing: C# enforces strong typing, enhancing code reliability and reducing runtime errors.
 
+# Is C++ a software skill?
+C++ is a great programming language to learn if your tech goals include speed and productivity. Being the primary language on Unix systems, it provides leeway for developers to write code that they can control, thanks to features such as the pointer.
+
 
 
 
