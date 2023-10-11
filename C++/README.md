@@ -62,3 +62,5 @@ Used in Various Applications: C# is commonly used in developing a wide range of 
 
 Integration with Microsoft Ecosystem: C# integrates seamlessly with other Microsoft technologies like Visual Studio (an integrated development environment) and Azure (Microsoft's cloud computing platform).
 
+# why to learn c++?
+c++ is one of the standard languages within back-end development. It's an extremely fast and efficient language. Many tools and frameworks rely on the speed and efficiency of C++.
