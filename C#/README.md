@@ -39,6 +39,8 @@ C# has roots from the C family, and the language is close to other popular langu
 The first version was released in year 2002. The latest version, C# 10, was released in November 2021.
 You can build native C++ apps for iOS, Android, and Windows devices by using the cross-platform tools available in Visual Studio. Mobile development with C++ is a workload available in the Visual Studio installer.
 
+C# (pronounced "See Sharp") is a modern, object-oriented, and type-safe programming language. C# enables developers to build many types of secure and robust applications that run in .NET. C# has its roots in the C family of languages and will be immediately familiar to C, C++, Java, and JavaScript programmers.
+
 C# is used for:
 websites
 Mobile applications
