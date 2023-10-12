@@ -10,8 +10,9 @@ class HelloWorld2 {
 		Console.WriteLine();
 		//print text with new line after the message
 		Console.WriteLine("Hello world");
-		Console.WriteLine("How are you?");
+		Console.WriteLine("MUET-SZAB");
 		//print new line using escape sequence just like C language
 		Console.WriteLine("Hello world\nHow are you?");
+		Console.WriteLine("Mehran");
 	}
 }
