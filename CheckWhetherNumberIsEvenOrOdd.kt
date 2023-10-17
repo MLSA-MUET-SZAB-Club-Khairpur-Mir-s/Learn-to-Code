@@ -4,7 +4,7 @@ fun main(args: Array<String>) {
 
     val reader = Scanner(System.`in`)
 
-    print("Enter a number: ")
+    print("Enter  a integer number: ")
     val num = reader.nextInt()
 
     if (num == 0)
