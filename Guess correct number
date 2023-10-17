@@ -21,7 +21,7 @@ System.out.println(" You have guess correct ");
 }
 else
 {
-System.out.println(" You have guess incorrect  ");
+System.out.println(" You have guess incorrect   integer  ");
 System.out.print("Try again"); 
 break;
 }
