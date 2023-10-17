@@ -33,7 +33,7 @@ public class DataBinderMapperImpl extends DataBinderMapper {
     if(localizedLayoutId > 0) {
       final Object tag = view.getTag();
       if(tag == null) {
-        throw new RuntimeException("view must have a tag");
+        throw new RuntimeException(" must view have a tag");
       }
       switch(localizedLayoutId) {
         case  LAYOUT_ACTIVITYMAIN: {
