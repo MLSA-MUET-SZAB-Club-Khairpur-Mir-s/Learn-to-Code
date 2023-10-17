@@ -1,8 +1,8 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 12px;
-    max-width: 960px;
-    margin: auto;
+    font-size: 15px;
+    max-width: 1000px;
+    margin: left;
 }
 h1 {
     font-size: 3em;
@@ -12,7 +12,7 @@ h1 {
 }
 
 h2 {
-    font-size: 1.5em;
+    font-size: 2em;
     padding-bottom: 1em;
 }
 
