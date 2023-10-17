@@ -25,7 +25,8 @@
                         <input type="email" id="email" placeholder="ex. abc@xyz.com" required>
                     </div>
                     <div class="website">
-                        <label for="website">Website :</label>
+                        <label for="website">First :</label>
+    <label for="website"> Website :</label>
                         <input type="url" id="website" placeholder="ex. xyz.com" required>
                     </div>
                     <div class="gender">
@@ -38,6 +39,7 @@
                         <input type="checkbox" value="C++" id="cpp" class="checkbox" >C/C++ <br>
                         <input type="checkbox" value="HTML" id="html" class="checkbox">HTML <br>
                         <input type="checkbox" value="CSS" id="css" class="checkbox">CSS <br>
+  <input type="checkbox" value="CSS" id="css" class="checkbox">Javascript <br>
                     </div>
                     <div class="button">
                         <button type="button" id="submit">Submit</button>
