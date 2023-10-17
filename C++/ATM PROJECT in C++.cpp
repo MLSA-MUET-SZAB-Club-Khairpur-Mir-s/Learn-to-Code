@@ -10,14 +10,14 @@ int main(){
 	int num, accountpin, a, b, balance1= 90000, balance2= 40000, balance3= 60000;
 	int accnum, accnum1= 1234567890, accnum2= 1234567891, accnum3= 1234567892;
 	char alpha, back;
-	string name, name1="Rizwan", name2="Haseeb", name3="Umar";
+	string name, name1="Saleem", name2="Zahoor", name3="Rizwan Ali";
 	cout<<"\t     --------------------"<<endl;
 	cout<<"\t\tBanking System"<<endl;
 	cout<<"\t     --------------------"<<endl;
 	start1:
-	per1.name= "1.Muzamil";
-	per2.name= "2.Haseeb";
-	per3.name= "3.Umar";
+	per1.name= "1.Saleem";
+	per2.name= "2.Zahoor";
+	per3.name= "3.Rizwan Ali";
 	cout<<per1.name<<endl;
 	cout<<per2.name<<endl;
 	cout<<per3.name<<endl;
